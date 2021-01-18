@@ -6,3 +6,4 @@ cmake-build-debug/
 out/
 */out/
 CMakeLists.txt
+readme.sh
