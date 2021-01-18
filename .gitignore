@@ -1,0 +1,8 @@
+*.out
+cmake-build-debug/
+*/cmake-build-debug/
+.idea/
+*/.idea/
+out/
+*/out/
+CMakeLists.txt
