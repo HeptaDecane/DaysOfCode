@@ -5,3 +5,4 @@
 - [Count the triplets](../main/CountTriplet.cpp)
 - [Kadane's Algorithm](../main/MaxSubarraySum.cpp)
 - [Merge Without Extra Space](../main/MergeO1.cpp)
+- [Rearrange Array Alternately](../main/RearrangeAlter.cpp)
