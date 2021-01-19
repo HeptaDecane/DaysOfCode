@@ -7,3 +7,4 @@ out/
 */out/
 CMakeLists.txt
 readme.sh
+TEST.cpp
