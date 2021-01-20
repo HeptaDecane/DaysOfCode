@@ -7,3 +7,8 @@
 - [Merge Without Extra Space](../main/MergeO1.cpp)
 - [Rearrange Array Alternately](../main/RearrangeAlter.cpp)
 - [Number of pairs](../main/CountPairs.cpp)
+- [Inversion of array](../main/InversionCount.cpp)
+
+
+## Revision Required
+- [Inversion of array](../main/InversionCount.cpp)
