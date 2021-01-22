@@ -9,6 +9,7 @@
 - [Number of pairs](../main/CountPairs.cpp)
 - [Inversion of array](../main/InversionCount.cpp)
 - [Sort an array of 0s, 1s and 2s](../main/Sort012.cpp)
+- [Equilibrium Point](../main/EquilibriumPoint.cpp)
 
 
 ## Revision Required
