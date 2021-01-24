@@ -12,6 +12,7 @@
 - [Equilibrium Point](../main/EquilibriumPoint.cpp)
 - [Leaders in an array](../main/ArrayLeaders.cpp)
 - [Minimum Platforms](../main/MinimumPlatforms.cpp)
+- [Reverse array in groups](../main/ReverseInGroups.cpp)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
