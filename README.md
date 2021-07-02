@@ -15,6 +15,7 @@
 - [Reverse array in groups](../main/ReverseInGroups.cpp)
 - [Kth smallest element](../main/KthSmallest.cpp)
 - [Trapping Rain Water ](../main/TrappingRain.java)
+- [Pythagorean Triplet](../main/PythagoreanTriplet.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
