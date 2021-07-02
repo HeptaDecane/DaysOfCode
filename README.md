@@ -16,6 +16,7 @@
 - [Kth smallest element](../main/KthSmallest.cpp)
 - [Trapping Rain Water ](../main/TrappingRain.java)
 - [Pythagorean Triplet](../main/PythagoreanTriplet.java)
+- [Chocolate Distribution Problem](../main/ChocolateDistribution.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
