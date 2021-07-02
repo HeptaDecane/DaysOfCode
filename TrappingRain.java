@@ -29,7 +29,7 @@ public class TrappingRain {
         }
     }
 
-    static int solve(int arr[], int n) {
+    private static int solve(int arr[], int n) {
 
         // Your code here
         int water = 0;
