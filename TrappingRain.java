@@ -3,13 +3,13 @@
     Tags:  Arrays, Dynamic Programming
 */
 
-// { Driver Code Starts
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-class Array {
+public class TrappingRain {
 
     public static void main (String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -26,24 +26,12 @@ class Array {
                 arr[i] = Integer.parseInt(inputLine[i]);
             }
 
-            Solution obj = new Solution();
-
             //calling trappingWater() function
-            System.out.println(obj.trappingWater(arr, n));
+            System.out.println(solve(arr, n));
         }
     }
-}
 
-// } Driver Code Ends
-
-
-
-class Solution{
-
-    // arr: input array
-    // n: size of array
-    // Function to find the trapped water between the blocks.
-    static int trappingWater(int arr[], int n) {
+    static int solve(int arr[], int n) {
 
         // Your code here
         int water = 0;
@@ -80,3 +68,4 @@ class Solution{
 
     }
 }
+
