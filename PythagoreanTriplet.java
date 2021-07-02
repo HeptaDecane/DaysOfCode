@@ -1,5 +1,5 @@
 /*
-    https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1
+    https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1
     Tags:  Arrays, Two Pointer Algorithm
 */
 
@@ -46,4 +46,3 @@ public class PythagoreanTriplet {
         return false;
     }
 }
-
