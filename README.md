@@ -18,6 +18,6 @@
 - [Pythagorean Triplet](../main/PythagoreanTriplet.java)
 - [Chocolate Distribution Problem](../main/ChocolateDistribution.java)
 - [Stock buy and sell](../main/StockTrading.java)
-
+- [Element with left side smaller and right side greater](../main/SortedElement.java)
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
