@@ -19,5 +19,7 @@
 - [Chocolate Distribution Problem](../main/ChocolateDistribution.java)
 - [Stock buy and sell](../main/StockTrading.java)
 - [Element with left side smaller and right side greater](../main/SortedElement.java)
+- [Convert array into Zig-Zag fashion](../main/ZigZagArray.java)
+
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
