@@ -23,5 +23,8 @@
 - [Spirally traversing a matrix](../main/MatrixSpiral.java)
 - [Largest Number formed from an Array](../main/LargestArrayNumber.java)
 
+## 2. Strings
+- [Reverse words in a given string](../main/ReverseWords.java)
+
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
