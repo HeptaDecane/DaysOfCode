@@ -21,6 +21,7 @@
 - [Element with left side smaller and right side greater](../main/SortedElement.java)
 - [Convert array into Zig-Zag fashion](../main/ZigZagArray.java)
 - [Spirally traversing a matrix](../main/MatrixSpiral.java)
+- [Largest Number formed from an Array](../main/LargestArrayNumber.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
