@@ -1,6 +1,6 @@
 /*
     https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
-    Tags: Stringsit
+    Tags: Strings
 */
 
 import java.util.Scanner;
