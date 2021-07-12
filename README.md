@@ -22,6 +22,7 @@
 - [Convert array into Zig-Zag fashion](../main/ZigZagArray.java)
 - [Spirally traversing a matrix](../main/MatrixSpiral.java)
 - [Largest Number formed from an Array](../main/LargestArrayNumber.java)
+- [Permutations of a given string](../main/StringPermutations.java)
 
 ## 2. Strings
 - [Reverse words in a given string](../main/ReverseWords.java)
