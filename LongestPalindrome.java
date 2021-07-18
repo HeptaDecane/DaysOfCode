@@ -1,6 +1,6 @@
 /*
     https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1
-    Tags:  Strings, Palindrom
+    Tags:  Strings, Palindrome
 */
 
 import java.io.BufferedReader;
