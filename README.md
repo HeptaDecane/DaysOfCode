@@ -23,6 +23,7 @@
 - [Spirally traversing a matrix](../main/MatrixSpiral.java)
 - [Largest Number formed from an Array](../main/LargestArrayNumber.java)
 - [Permutations of a given string](../main/StringPermutations.java)
+- [Longest Palindrome in a String](../main/LongestPalindrome.java)
 
 ## 2. Strings
 - [Reverse words in a given string](../main/ReverseWords.java)
