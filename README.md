@@ -31,6 +31,7 @@
 - [Check if string is rotated by two places](../main/RotatedString.java)
 - [Roman Number to Integer](../main/RomanToInt.java)
 - [Anagram](../main/Anagram.java)
+- [Remove Duplicates](../main/RemoveDuplicates.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
