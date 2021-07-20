@@ -27,6 +27,7 @@
 
 ## 2. Strings
 - [Reverse words in a given string](../main/ReverseWords.java)
+- [Recursively remove all adjacent duplicates](../main/RecursiveStringClean)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
