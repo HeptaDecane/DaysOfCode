@@ -23,7 +23,7 @@ public class RemoveDuplicates {
         }
     }
 
-    private static String solve(String s) {
+    private static String solve(String s){
         // code here
         Set<Character> charSet = new LinkedHashSet<>();
 
