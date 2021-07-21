@@ -32,6 +32,7 @@
 - [Roman Number to Integer](../main/RomanToInt.java)
 - [Anagram](../main/Anagram.java)
 - [Remove Duplicates](../main/RemoveDuplicates.java)
+- [Longest Common Subsequence](../main/LCS.java)
 
 ## Revision Required
-- [Inversion of array](../main/InversionCount.cpp)
+- [Inversion of array](../main/InversionCount.cpp
