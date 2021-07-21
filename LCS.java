@@ -1,3 +1,7 @@
+/*
+https://www.geeksforgeeks.org/printing-longest-common-subsequence/
+Tags:  Strings, Dynamic Programming
+*/
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -45,12 +49,6 @@ public class LCS {
                 i--; j--;
             }
         }
-
-//        for(int[] row : matrix){
-//            for (int element : row)
-//                System.out.print(element+" ");
-//            System.out.println();
-//        }
 
         return result.reverse().toString();
     }
