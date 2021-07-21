@@ -22,10 +22,10 @@
 - [Convert array into Zig-Zag fashion](../main/ZigZagArray.java)
 - [Spirally traversing a matrix](../main/MatrixSpiral.java)
 - [Largest Number formed from an Array](../main/LargestArrayNumber.java)
-- [Permutations of a given string](../main/StringPermutations.java)
-- [Longest Palindrome in a String](../main/LongestPalindrome.java)
 
 ## 2. Strings
+- [Permutations of a given string](../main/StringPermutations.java)
+- [Longest Palindrome in a String](../main/LongestPalindrome.java)
 - [Reverse words in a given string](../main/ReverseWords.java)
 - [Recursively remove all adjacent duplicates](../main/RecursiveStringClean.java)
 - [Check if string is rotated by two places](../main/RotatedString.java)
@@ -33,6 +33,7 @@
 - [Anagram](../main/Anagram.java)
 - [Remove Duplicates](../main/RemoveDuplicates.java)
 - [Longest Common Subsequence](../main/LCS.java)
+- [Longest Palindromic Subsequence](../main/LPS.java)
 
 ## Revision Required
-- [Inversion of array](../main/InversionCount.cpp
+- [Inversion of array](../main/InversionCount.cpp)
