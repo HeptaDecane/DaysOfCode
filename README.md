@@ -35,6 +35,7 @@
 - [Longest Common Subsequence](../main/LCS.java)
 - [Longest Palindromic Subsequence](../main/LPS.java)
 - [Form a palindrome](../main/FormPalindrome.java)
+- [Longest Distinct characters in string](../main/DistinctSubstring.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
