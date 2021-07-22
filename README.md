@@ -38,6 +38,7 @@
 - [Longest Distinct characters in string](../main/DistinctSubstring.java)
 - [Implement Atoi](../main/AtoI.java)
 - [Implement strstr](../main/StrContains.java)
+- [Longest Common Prefix in an Array](../main/LongestPrefix.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
