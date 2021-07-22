@@ -42,6 +42,7 @@
 
 ## 3. Linked List
 - [Finding middle element in a linked list](../main/MiddleNode.java)
+- [Reverse a linked list](../main/ReverseLinkedList.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
