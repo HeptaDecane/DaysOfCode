@@ -44,6 +44,7 @@
 - [Finding middle element in a linked list](../main/MiddleNode.java)
 - [Reverse a linked list](../main/ReverseLinkedList.java)
 - [Rotate a Linked List](../main/RotateLinkedList.java)
+- [Reverse a Linked List in groups of given size](../main/GroupReverseLinkedList.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
