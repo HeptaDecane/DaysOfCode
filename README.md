@@ -40,5 +40,8 @@
 - [Implement strstr](../main/StrContains.java)
 - [Longest Common Prefix in an Array](../main/LongestPrefix.java)
 
+## 3. Linked List
+- [Finding middle element in a linked list](../main/MiddleNode.java)
+
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
