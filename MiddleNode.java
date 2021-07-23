@@ -6,16 +6,6 @@ Tags: Linked List
 import java.util.*;
 import java.io.*;
 
-class Node{
-    int data;
-    Node next;
-
-    Node(int x){
-        data = x;
-        next = null;
-    }
-}
-
 /* Node of a linked list
  class Node {
    int data;
@@ -25,6 +15,16 @@ class Node{
 */
 
 public class MiddleNode{
+    static class Node{
+        int data;
+        Node next;
+
+        Node(int x){
+            data = x;
+            next = null;
+        }
+    }
+
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
