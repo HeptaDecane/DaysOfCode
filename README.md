@@ -49,7 +49,8 @@
 - [Detect Loop in linked list](../main/LoopDetection.java)
 - [Remove loop in Linked List](../main/RemoveLoop.java) 
 - [Nth node from end of linked list](../main/NthNodeFromEnd.java)
-- [Flattening a Linked List](../main/FlattenLinkedList.java) 
+- [Merge two sorted linked lists](../main/MergeLinkedList.java)
+- [Flattening a Linked List](../main/FlattenLinkedList.java)
 
 
 ## Revision Required
