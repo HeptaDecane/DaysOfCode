@@ -48,6 +48,7 @@
 - [Intersection Point in Y Shapped Linked Lists](../main/LinkedListIntersection.java)
 - [Detect Loop in linked list](../main/LoopDetection.java)
 - [Remove loop in Linked List](../main/RemoveLoop.java) 
+- [Nth node from end of linked list](../main/NthNodeFromEnd.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
