@@ -46,7 +46,7 @@
 - [Rotate a Linked List](../main/RotateLinkedList.java)
 - [Reverse a Linked List in groups of given size](../main/GroupReverseLinkedList.java)
 - [Intersection Point in Y Shapped Linked Lists](../main/LinkedListIntersection.java)
-
+- [Detect Loop in linked list](../main/LoopDetection.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
