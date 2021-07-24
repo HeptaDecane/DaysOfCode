@@ -57,5 +57,8 @@
 - [Given a linked list of 0s, 1s and 2s, sort it](../main/Sort012.java)
 - [Delete without head pointer](../main/DeleteWithoutHead.java)
 
+## 4. Stack and Queue
+- [Parenthesis Checker](../main/ParenthesisChecker.java)
+
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
