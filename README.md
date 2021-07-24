@@ -54,6 +54,7 @@
 - [Pairwise swap elements of a linked list](../main/PairSwapLinkedList.java)
 - [Add two numbers represented by linked lists](../main/LinkedListAddition.java)
 - [Check if Linked List is Palindrome](../main/PalindromeLinkedList.java)
+- [Given a linked list of 0s, 1s and 2s, sort it](../main/Sort012.java)
 
 
 ## Revision Required
