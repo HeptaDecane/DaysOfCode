@@ -53,6 +53,7 @@
 - [Flattening a Linked List](../main/FlattenLinkedList.java)
 - [Pairwise swap elements of a linked list](../main/PairSwapLinkedList.java)
 - [Add two numbers represented by linked lists](../main/LinkedListAddition.java)
+- [Check if Linked List is Palindrome](../main/PalindromeLinkedList.java)
 
 
 ## Revision Required
