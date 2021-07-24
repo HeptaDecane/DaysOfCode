@@ -51,6 +51,7 @@
 - [Nth node from end of linked list](../main/NthNodeFromEnd.java)
 - [Merge two sorted linked lists](../main/MergeLinkedList.java)
 - [Flattening a Linked List](../main/FlattenLinkedList.java)
+- [Pairwise swap elements of a linked list](../main/PairSwapLinkedList.java)
 
 
 ## Revision Required
