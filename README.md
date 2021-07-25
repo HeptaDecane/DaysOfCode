@@ -62,7 +62,7 @@
 - [Next Greater Element](../main/NextGreaterElement.java)
 - [Queue using two Stacks](../main/QueueWithStacks.java)
 - [Stack using two queues](../main/StackWithQueues.java)
-
+- [Get minimum element from stack](../main/GetMinStack.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
