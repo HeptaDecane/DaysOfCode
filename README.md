@@ -60,6 +60,9 @@
 ## 4. Stack and Queue
 - [Parenthesis Checker](../main/ParenthesisChecker.java)
 - [Next Greater Element](../main/NextGreaterElement.java)
+- [Queue using two Stacks](../main/QueueWithStacks.java)
+- [Stack using two queues](../main/StackWithQueues.java)
+
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
