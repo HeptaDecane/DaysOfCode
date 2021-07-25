@@ -59,6 +59,7 @@
 
 ## 4. Stack and Queue
 - [Parenthesis Checker](../main/ParenthesisChecker.java)
+- [Next Greater Element](../main/NextGreaterElement.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
