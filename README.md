@@ -64,5 +64,9 @@
 - [Stack using two queues](../main/StackWithQueues.java)
 - [Get minimum element from stack](../main/GetMinStack.java)
 
+
+## Misc
+- [Martin's Jog](../main/MatrinsJog.java)
+
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
