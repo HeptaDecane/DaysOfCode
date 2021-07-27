@@ -68,6 +68,7 @@
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
+- [Circular tour](../main/CircularTour.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
