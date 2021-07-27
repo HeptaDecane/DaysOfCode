@@ -69,6 +69,8 @@
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
 - [Circular tour](../main/CircularTour.java)
+- [First non-repeating character in a stream](../main/FirstNonRepeatingCharacter.java)
+
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
