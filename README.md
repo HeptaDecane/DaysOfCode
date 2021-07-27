@@ -64,6 +64,7 @@
 - [Stack using two queues](../main/StackWithQueues.java)
 - [Get minimum element from stack](../main/GetMinStack.java)
 - [LRU Cache](../main/LRUDesign.java)
+- [Rotten Oranges](../main/RottenOranges.java)
 
 
 ## Misc
