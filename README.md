@@ -65,13 +65,13 @@
 - [Get minimum element from stack](../main/GetMinStack.java)
 - [LRU Cache](../main/LRUDesign.java)
 - [Rotten Oranges](../main/RottenOranges.java)
+- [Maximum of all subarrays of size k](../main/MaxOfSubarray.java)
 
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
 - [Circular tour](../main/CircularTour.java)
 - [First non-repeating character in a stream](../main/FirstNonRepeatingCharacter.java)
-
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
