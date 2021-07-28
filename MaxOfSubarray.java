@@ -75,5 +75,4 @@ public class MaxOfSubarray {
         result.add(arr[deque.peekFirst()]);
         return result;
     }
-
 }
