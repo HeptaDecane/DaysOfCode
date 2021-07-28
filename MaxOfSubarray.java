@@ -18,7 +18,6 @@ public class MaxOfSubarray {
         int t = sc.nextInt();
 
 
-
         while(t-- > 0)
         {
             //taking total number of elements
