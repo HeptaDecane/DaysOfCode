@@ -69,6 +69,7 @@
 
 
 ## 5. Tree
+- [Iterative Tree Traversal](../main/TreeTraversal.java)
 - [Left View of Binary Tree](../main/TreeLeftView.java)
 - [Check for BST](../main/CheckBST.java)
 
