@@ -70,6 +70,8 @@
 
 ## 5. Tree
 - [Left View of Binary Tree](../main/TreeLeftView.java)
+- [Check for BST](../main/CheckBST.java)
+
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
