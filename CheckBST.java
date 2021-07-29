@@ -10,7 +10,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-class GfG {
+public class CheckBST {
 
     static class Node{
         int data;
