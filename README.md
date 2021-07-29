@@ -72,6 +72,8 @@
 - [Iterative Tree Traversal](../main/TreeTraversal.java)
 - [Left View of Binary Tree](../main/TreeLeftView.java)
 - [Check for BST](../main/CheckBST.java)
+- [Bottom View of Binary Tree](..main/TreeBottomView.java)
+
 
 
 ## Misc
