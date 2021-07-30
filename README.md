@@ -67,7 +67,6 @@
 - [Rotten Oranges](../main/RottenOranges.java)
 - [Maximum of all subarrays of size k](../main/MaxOfSubarray.java)
 
-
 ## 5. Tree
 - [Iterative Tree Traversal](../main/TreeTraversal.java)
 - [Left View of Binary Tree](../main/TreeLeftView.java)
@@ -77,6 +76,7 @@
 - [Level order traversal in spiral form](../main/TreeSpiralTraversal.java)
 - [Connect Nodes at Same Level](../main/ConnectSameLevelNodes.java)
 - [Lowest Common Ancestor in a BST ](../main/LCABST.java)
+- [Binary Tree to DLL](../main/TreeToDLL.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
