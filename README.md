@@ -77,6 +77,7 @@
 - [Connect Nodes at Same Level](../main/ConnectSameLevelNodes.java)
 - [Lowest Common Ancestor in a BST ](../main/LCABST.java)
 - [Binary Tree to DLL](../main/TreeToDLL.java)
+- [Determine if Two Trees are Identical](../main/IdenticalTrees.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
