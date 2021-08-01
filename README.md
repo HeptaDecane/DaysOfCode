@@ -78,6 +78,7 @@
 - [Lowest Common Ancestor in a BST ](../main/LCABST.java)
 - [Binary Tree to DLL](../main/TreeToDLL.java)
 - [Determine if Two Trees are Identical](../main/IdenticalTrees.java)
+- [Symmetric Tree](../main/SymmetricTrees.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
