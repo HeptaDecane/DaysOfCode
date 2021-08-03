@@ -82,6 +82,7 @@
 - [Height of Binary Tree](../main/TreeHeight.java)
 - [Diameter of Binary Tree](../main/TreeDiameter.java)
 - [Count Leaves in Binary Tree](../main/CountLeafNodes.java)
+- [Check for Balanced Tree](../main/CheckBalancedTree.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
