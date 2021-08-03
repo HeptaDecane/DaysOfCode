@@ -80,6 +80,7 @@
 - [Determine if Two Trees are Identical](../main/IdenticalTrees.java)
 - [Symmetric Tree](../main/SymmetricTrees.java)
 - [Height of Binary Tree](../main/TreeHeight.java)
+- [Diameter of Binary Tree](../main/TreeDiameter.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
