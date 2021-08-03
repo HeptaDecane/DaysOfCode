@@ -1,5 +1,5 @@
 /*
-https://practice.geeksforgeeks.org/problems/maximum-path-sum/1#
+https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1
 Tags: Tree
 */
 
@@ -9,22 +9,22 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class MaxPathLeafNodes {
+public class TreeDiameter {
 
-    static class Node{
+    static class Node {
         int data;
         Node left;
         Node right;
-        Node(int data){
+        Node(int data) {
             this.data = data;
-            left=null;
-            right=null;
+            left = null;
+            right = null;
         }
     }
 
-    static Node buildTree(String str){
+    static Node buildTree(String str) {
 
-        if(str.length()==0 || str.charAt(0)=='N'){
+        if (str.length() == 0 || str.charAt(0) == 'N') {
             return null;
         }
 
@@ -39,7 +39,7 @@ public class MaxPathLeafNodes {
         // Starting from the second element
 
         int i = 1;
-        while(queue.size()>0 && i < ip.length) {
+        while (queue.size() > 0 && i < ip.length) {
 
             // Get and remove the front of the queue
             Node currNode = queue.peek();
@@ -49,7 +49,7 @@ public class MaxPathLeafNodes {
             String currVal = ip[i];
 
             // If the left child is not null
-            if(!currVal.equals("N")) {
+            if (!currVal.equals("N")) {
 
                 // Create the left child for the current node
                 currNode.left = new Node(Integer.parseInt(currVal));
@@ -59,13 +59,12 @@ public class MaxPathLeafNodes {
 
             // For the right child
             i++;
-            if(i >= ip.length)
-                break;
+            if (i >= ip.length) break;
 
             currVal = ip[i];
 
             // If the right child is not null
-            if(!currVal.equals("N")) {
+            if (!currVal.equals("N")) {
 
                 // Create the right child for the current node
                 currNode.right = new Node(Integer.parseInt(currVal));
@@ -78,12 +77,11 @@ public class MaxPathLeafNodes {
 
         return root;
     }
-    static void printInorder(Node root){
-        if(root == null)
-            return;
+    static void printInorder(Node root) {
+        if (root == null) return;
 
         printInorder(root.left);
-        System.out.print(root.data+" ");
+        System.out.print(root.data + " ");
 
         printInorder(root.right);
     }
@@ -105,36 +103,38 @@ public class MaxPathLeafNodes {
         }
     }
 
-    public static void main (String[] args) throws IOException{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int t=Integer.parseInt(br.readLine());
+    public static void main(String[] args) throws IOException {
+        BufferedReader br =
+                new BufferedReader(new InputStreamReader(System.in));
 
-        while(t > 0){
+        int t = Integer.parseInt(br.readLine());
+
+        while (t > 0) {
             String s = br.readLine();
             Node root = buildTree(s);
-
-            System.out.println(solve(root));
+             System.out.println(solve(root));
             t--;
         }
     }
-    static int res;
+
+    private static int res;
     private static int solve(Node root){
         res = Integer.MIN_VALUE;
-        System.out.println(recursion(root));
+        recursion(root);
         return res;
     }
 
-    private static int recursion(Node node) {
-        if(node == null)
-            return 0;
+    private static int recursion(Node node){
+        if(node == null) return 0;
 
         int l = recursion(node.left);
         int r = recursion(node.right);
-        System.out.println(node.data+" "+l+" "+r);
-        int temp = Math.max(l,r)+node.data;
-        int ans = Math.max(temp, l+r+node.data);
-        res = Math.max(res,ans);
-        return temp;
-    }
 
+        int temp = Math.max(l,r)+1;
+        int ans = Math.max(temp, l+r+1);
+        res = Math.max(res,ans);
+
+        return temp;
+
+    }
 }
