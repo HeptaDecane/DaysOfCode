@@ -85,6 +85,9 @@
 - [Check for Balanced Tree](../main/CheckBalancedTree.java)
 - [Serialize and Deserialize a Binary Tree](../main/SerializeBinaryTree.java)
 
+## Recursion
+- [Flood fill Algorithm](../main/FloodFill.java)
+
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
 - [Circular tour](../main/CircularTour.java)
