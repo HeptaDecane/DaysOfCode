@@ -87,6 +87,7 @@
 
 ## Recursion
 - [Flood fill Algorithm](../main/FloodFill.java)
+- [Number of paths](../main/NumberOfPaths.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
