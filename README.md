@@ -90,6 +90,7 @@
 - [Number of paths](../main/NumberOfPaths.java)
 - [Combination Sum - Part 1](../main/CombinationsSum1.java)
 - [Combination Sum - Part 2](../main/CombinationsSum2.java)
+- [Special Keyboard](../main/SpecialKeyboard.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
