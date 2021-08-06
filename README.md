@@ -92,10 +92,12 @@
 - [Combination Sum - Part 2](../main/CombinationsSum2.java)
 - [Special Keyboard](../main/SpecialKeyboard.java)
 
+
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
 - [Circular tour](../main/CircularTour.java)
 - [First non-repeating character in a stream](../main/FirstNonRepeatingCharacter.java)
+- [Josephus problem](../main/JosephusProblem.java)
 
 ## Revision Required
 - [Inversion of array](../main/InversionCount.cpp)
