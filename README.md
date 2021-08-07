@@ -92,6 +92,9 @@
 - [Combination Sum - Part 2](../main/CombinationsSum2.java)
 - [Special Keyboard](../main/SpecialKeyboard.java)
 
+## Hashing
+- [Sort an array according to the other](../main/RelativeSort.java)
+
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
