@@ -94,7 +94,7 @@
 
 ## Hashing
 - [Sort an array according to the other](../main/RelativeSort.java)
-
+- [Sorting Elements of an Array by Frequency](../main/FrequencySort.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
