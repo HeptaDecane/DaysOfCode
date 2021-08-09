@@ -97,6 +97,7 @@
 - [Sorting Elements of an Array by Frequency](../main/FrequencySort.java)
 - [Largest subarray with 0 sum](../main/LargestZeroSum.java)
 - [Common Elements](../main/CommonElements.java)
+- [Find All Four Sum Numbers](../main/FourSum.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
