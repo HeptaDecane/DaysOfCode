@@ -99,6 +99,7 @@
 - [Common Elements](../main/CommonElements.java)
 - [Find All Four Sum Numbers](../main/FourSum.java)
 - [Swapping pairs make sum equal](../main/BalanceArray.java)
+- [Count distinct elements in every window](../main/DistinctInWindow.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
