@@ -101,6 +101,7 @@
 - [Swapping pairs make sum equal](../main/BalanceArray.java)
 - [Count distinct elements in every window](../main/DistinctInWindow.java)
 - [Array Pair Sum Divisibility Problem](../main/SumDivProblem.java)
+- [Longest consecutive subsequence](../main/ConsecutiveSubsequence.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
