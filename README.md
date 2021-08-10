@@ -100,6 +100,7 @@
 - [Find All Four Sum Numbers](../main/FourSum.java)
 - [Swapping pairs make sum equal](../main/BalanceArray.java)
 - [Count distinct elements in every window](../main/DistinctInWindow.java)
+- [Array Pair Sum Divisibility Problem](../main/SumDivProblem.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
