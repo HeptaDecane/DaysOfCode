@@ -102,6 +102,7 @@
 - [Count distinct elements in every window](../main/DistinctInWindow.java)
 - [Array Pair Sum Divisibility Problem](../main/SumDivProblem.java)
 - [Longest consecutive subsequence](../main/ConsecutiveSubsequence.java)
+- [Array Subset of another array](../main/ArraySubset.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
