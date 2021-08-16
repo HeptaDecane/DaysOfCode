@@ -104,6 +104,7 @@
 - [Longest consecutive subsequence](../main/ConsecutiveSubsequence.java)
 - [Array Subset of another array](../main/ArraySubset.java)
 - [Find all pairs with a given sum](../main/PairedSum.java)
+- [Zero Sum Subarrays](../main/ZeroSubarrays.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
