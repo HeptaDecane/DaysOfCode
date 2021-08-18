@@ -106,6 +106,7 @@
 - [Find all pairs with a given sum](../main/PairedSum.java)
 - [Zero Sum Subarrays](../main/ZeroSubarrays.java)
 - [Minimum indexed character](../main/MinIndexCharacter.java)
+- [Check if two arrays are equal or not](../main/EqualArrays.java)
 
 ## Misc
 - [Martin's Jog](../main/MatrinsJog.java)
