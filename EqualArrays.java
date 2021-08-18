@@ -4,7 +4,7 @@ Tags: Arrays, Hash, Sorting
 */
 
 import java.util.*;
-class GFG {
+public class EqualArrays {
     public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
 
