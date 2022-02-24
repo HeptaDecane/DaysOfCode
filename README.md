@@ -16,6 +16,12 @@
    - [problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
    - [solution](../main/a003.cpp)
 
+4. Missing number in array
+   - Arrays, Bit Magic, Searching
+   - [problem](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+   - [solution](../main/a004.cpp)
+   
+
 
    
 <hr/>
