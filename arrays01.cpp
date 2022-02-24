@@ -14,7 +14,7 @@ public:
         for(int i=0; i<n; i++){
             cur_sum = cur_sum+arr[i];
 
-            while(cur_sum>sum){
+            while(cur_sum > sum){
                 cur_sum = cur_sum-arr[start];
                 start++;
             }
