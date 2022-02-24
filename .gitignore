@@ -6,5 +6,5 @@ cmake-build-debug/
 out/
 */out/
 CMakeLists.txt
-readme.sh
+*.sh
 TEST.cpp
