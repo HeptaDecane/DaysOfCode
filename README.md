@@ -20,8 +20,11 @@
    - Arrays, Bit Magic, Searching
    - [problem](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
    - [solution](../main/a004.cpp)
-   
 
+5. Merge Without Extra Space
+   - Arrays, Mathematical, Sorting
+   - [problem](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
+   - [solution](../main/a005.cpp)
 
    
 <hr/>
