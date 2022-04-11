@@ -26,5 +26,10 @@
    - [problem](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
    - [solution](../main/a005.cpp)
 
+6. Rearrange Array Alternately
+   - Arrays, Mathematical
+   - `arr[i] += arr[j]%MAX * MAX`
+   - [problem](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)
+   - [solution](../main/a006.cpp)
    
 <hr/>
