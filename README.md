@@ -31,5 +31,11 @@
    - `arr[i] += arr[j]%MAX * MAX`
    - [problem](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)
    - [solution](../main/a006.cpp)
+
+7. Number of pairs
+   - Arrays, Sorting
+   - `if y > x then x^y > y^x ∀ x,y>4`
+   - [problem](https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1)
+   - [solution](../main/a007.cpp)
    
 <hr/>
