@@ -37,5 +37,11 @@
    - `if y > x then x^y > y^x ∀ x,y>4`
    - [problem](https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1)
    - [solution](../main/a007.cpp)
+
+8. Count Inversions
+   - Arrays, Sorting, Divide and Conquer
+   - Merge Sort
+   - [problem](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
+   - [solution](../main/a008.cpp)
    
 <hr/>
