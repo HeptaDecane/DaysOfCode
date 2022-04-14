@@ -48,5 +48,10 @@
    - Arrays, Sorting, Multi-Pointers
    - [problem](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
    - [solution](../main/a009.cpp)
+
+10. Equilibrium Point
+   - Arrays, Prefix-sum
+   - [problem](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
+   - [solution](../main/a010.cpp)
    
 <hr/>
