@@ -43,5 +43,10 @@
    - Merge Sort
    - [problem](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
    - [solution](../main/a008.cpp)
+
+9. Sort an array of 0s, 1s and 2s
+   - Arrays, Sorting, Multi-Pointers
+   - [problem](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+   - [solution](../main/a009.cpp)
    
 <hr/>
