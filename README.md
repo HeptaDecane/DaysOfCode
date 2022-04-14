@@ -53,6 +53,8 @@
    - Arrays, Prefix-sum
    - [problem](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
    - [solution](../main/a010.cpp)
+
+11. temp
    
 
 <hr/>
