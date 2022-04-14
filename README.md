@@ -45,7 +45,7 @@
    - [solution](../main/a008.cpp)
 
 9. Sort an array of 0s, 1s and 2s
-   - Arrays, Sorting, Multi-Pointers
+   - - Arrays, Sorting, Multi-Pointers
    - [problem](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
    - [solution](../main/a009.cpp)
 
