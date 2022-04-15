@@ -54,5 +54,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)
     - [solution](../main/a010.cpp)
 
+11. Leaders in an array
+    - Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+    - [solution](../main/a011.cpp)
+
 
 <hr/>
