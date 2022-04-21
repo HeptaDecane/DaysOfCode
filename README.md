@@ -64,5 +64,11 @@
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
     - [solution](../main/a012.cpp)
 
+13. Reverse array in groups
+    - Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1)
+    - [solution](../main/a013.cpp)
+
+
 
 <hr/>
