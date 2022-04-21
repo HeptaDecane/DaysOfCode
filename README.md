@@ -59,5 +59,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
     - [solution](../main/a011.cpp)
 
+12. Minimum Platforms
+    - Arrays, Greedy, Sorting, Binary Search
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+    - [solution](../main/a012.cpp)
+
 
 <hr/>
