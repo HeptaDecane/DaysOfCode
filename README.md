@@ -74,5 +74,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
     - [solution](../main/a014.cpp)
 
+15. Kth smallest element
+    - Arrays, Two Pointer Algorithm
+    - [problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
+    - [solution](../main/a015.cpp)
 
 <hr/>
