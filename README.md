@@ -69,6 +69,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1)
     - [solution](../main/a013.cpp)
 
+14. Kth smallest element
+    - Arrays, Searching, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+    - [solution](../main/a014.cpp)
 
 
 <hr/>
