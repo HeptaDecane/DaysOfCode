@@ -82,6 +82,6 @@
 15. Kth smallest element
     - Arrays, Sorting, Two Pointer Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1)
-    - T: O(n^2), S: O(1) | [solution](../main/a016.cpp)
+    - [`T: O(n^2), S: O(1)`](../main/a016.cpp)
 
 <hr/>
