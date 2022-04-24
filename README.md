@@ -74,12 +74,12 @@
     - [problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
     - [solution](../main/a014.cpp)
 
-15. Kth smallest element
+15. Trapping Rain Water
     - Arrays, Two Pointer Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
-    - [solution](../main/a015.cpp)
+    - [`T: O(n), SO(1)`](../main/a015.cpp)
 
-15. Kth smallest element
+15. Pythagorean Triplet
     - Arrays, Sorting, Two Pointer Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1)
     - [`T: O(n^2), S: O(1)`](../main/a016.cpp)
