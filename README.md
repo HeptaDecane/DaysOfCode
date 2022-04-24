@@ -77,7 +77,7 @@
 15. Trapping Rain Water
     - Arrays, Two Pointer Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
-    - [`T: O(n), SO(1)`](../main/a015.cpp)
+    - [`T: O(n), S: O(1)`](../main/a015.cpp)
 
 15. Pythagorean Triplet
     - Arrays, Sorting, Two Pointer Algorithm
