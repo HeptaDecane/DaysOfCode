@@ -79,9 +79,14 @@
     - [problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
     - [`T: O(n), S: O(1)`](../main/a015.cpp)
 
-15. Pythagorean Triplet
+16. Pythagorean Triplet
     - Arrays, Sorting, Two Pointer Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1)
     - [`T: O(n^2), S: O(1)`](../main/a016.cpp)
+
+17. Chocolate Distribution Problem
+    - Arrays, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+    - [`T: O(nlog(n)), S: O(1)`](../main/a017.cpp)
 
 <hr/>
