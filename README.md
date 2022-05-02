@@ -89,4 +89,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
     - [`T: O(nlog(n)), S: O(1)`](../main/a017.cpp)
 
+18. Stock buy and sell
+    - Arrays, Greedy, Dynamic Programming
+    - [problem](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
+    - [`T: O(n), S: O(1)`](../main/a018.cpp)
+
 <hr/>
