@@ -11,7 +11,7 @@ public:
         for(int i=0; i+1<n; i++){
             if(a[i] < a[i+1] and entry.empty())
                 entry.push_back(i);
-            if(a[i] > a[i+1] and !entry.empty()){
+            if(a[i] > a[i+1] and not entry.empty()){
                 entry.push_back(i);
                 result.push_back(entry);
                 entry.clear();
