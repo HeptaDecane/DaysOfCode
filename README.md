@@ -94,4 +94,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
     - [`T: O(n), S: O(1)`](../main/a018.cpp)
 
+19. Element with left side smaller and right side greater
+    - Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1)
+    - [`T: O(n), S: O(n)`](../main/a019.cpp)
+
 <hr/>
