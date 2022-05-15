@@ -99,4 +99,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1)
     - [`T: O(n), S: O(n)`](../main/a019.cpp)
 
+20. Convert array into Zig-Zag fashion
+    - Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1)
+    - [`T: O(n), S: O(1)`](../main/a020.cpp)
+    
 <hr/>
