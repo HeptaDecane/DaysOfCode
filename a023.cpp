@@ -3,13 +3,11 @@ using namespace std;
 
 class Solution{
 public:
-    static bool comparator(string a, string b){
-        return a+b > b+a;
-    }
-
     string printLargest(vector<string> &arr) {
         // TODO
-        sort(arr.begin(), arr.end(), comparator);
+        sort(arr.begin(), arr.end(), [](string a, string b){
+            return a+b > b+a;
+        });
 
         string res;
         for(string s : arr)
