@@ -108,5 +108,10 @@
     - Arrays, Searching
     - [problem](https://practice.geeksforgeeks.org/problems/last-index-of-15847/1)
     - [`T: O(n), S: O(1)`](../main/a021.cpp)
+
+22. Spirally traversing a matrix
+    - Arrays, Matrix
+    - [problem](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
+    - [`T: O(r*c), S: O(r*c)`](../main/a022.cpp)
     
 <hr/>
