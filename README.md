@@ -114,8 +114,8 @@
     - [problem](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
     - [`T: O(r*c), S: O(r*c)`](../main/a022.cpp)
 
-22. Spirally traversing a matrix
-    - Arrays, Matrix
+22. Largest Number formed from an Array
+    - Arrays, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
     - [`T: O(nlog(n)), S: O(1)`](../main/a023.cpp)
     
