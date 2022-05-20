@@ -124,5 +124,10 @@
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
     - [`T: O(s), S: O(s)`](../main/a024.cpp)
+
+25. Permutations of a given string
+    - Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
+    - [`T: O(n*n!), S: O(n)`](../main/a025.cpp)
     
 <hr/>
