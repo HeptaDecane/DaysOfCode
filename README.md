@@ -130,5 +130,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
     - [`T: O(n*n!), S: O(n) + backtracking`](../main/a025i.cpp)
     - [`T: O(n*n!), S: O(n)`](../main/a025ii.cpp)
+
+26. Longest Palindrome in a String
+    - Strings, Palindrome, Expand from center
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
+    - [`T: O(n^2), S: O(1)`](../main/a026.cpp)
     
 <hr/>
