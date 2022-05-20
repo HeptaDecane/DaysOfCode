@@ -128,6 +128,7 @@
 25. Permutations of a given string
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
-    - [`T: O(n*n!), S: O(n)`](../main/a025.cpp)
+    - [`T: O(n*n!), S: O(n) + backtracking`](../main/a025i.cpp)
+    - [`T: O(n*n!), S: O(n)`](../main/a025ii.cpp)
     
 <hr/>
