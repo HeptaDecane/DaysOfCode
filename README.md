@@ -120,8 +120,9 @@
     - [`T: O(nlog(n)), S: O(1)`](../main/a023.cpp)
 
 ### Strings
-1. Reverse words in a given string
+24. Reverse words in a given string
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
     - [`T: O(s), S: O(s)`](../main/a024.cpp)
+    
 <hr/>
