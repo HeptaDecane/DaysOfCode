@@ -114,9 +114,14 @@
     - [problem](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
     - [`T: O(r*c), S: O(r*c)`](../main/a022.cpp)
 
-22. Largest Number formed from an Array
+23. Largest Number formed from an Array
     - Arrays, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
     - [`T: O(nlog(n)), S: O(1)`](../main/a023.cpp)
-    
+
+### Strings
+1. Reverse words in a given string
+    - Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
+    - [`T: O(s), S: O(s)`](../main/a024.cpp)
 <hr/>
