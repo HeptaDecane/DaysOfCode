@@ -150,5 +150,10 @@
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
     - [`T: O(n), S: O(1)`](../main/a029.cpp)
+
+30. Anagram
+    - Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)
+    - [`T: O(a+b), S: O(number of distinct characters)`](../main/a030.cpp)
     
 <hr/>
