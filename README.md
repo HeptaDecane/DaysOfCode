@@ -135,5 +135,10 @@
     - Strings, Palindrome, Expand from center
     - [problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
     - [`T: O(n^2), S: O(1)`](../main/a026.cpp)
+
+27. Recursively remove all adjacent duplicates
+    - Strings, Recursion
+    - [problem](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)
+    - [`T: O(n^2), S: O(n)`](../main/a027.cpp)
     
 <hr/>
