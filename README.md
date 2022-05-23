@@ -145,5 +145,10 @@
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)
     - [`T: O(n), S: O(1)`](../main/a028.cpp)
+
+29. Roman Number to Integer
+    - Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
+    - [`T: O(n), S: O(1)`](../main/a029.cpp)
     
 <hr/>
