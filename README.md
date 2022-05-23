@@ -154,6 +154,11 @@
 30. Anagram
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)
-    - [`T: O(a+b), S: O(number of distinct characters)`](../main/a030.cpp)
+    - [`T: O(a+b), S: O(constant)`](../main/a030.cpp)
+
+31. Remove Duplicates
+    - Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1)
+    - [`T: O(n), S: O(constant)`](../main/a031.cpp)
     
 <hr/>
