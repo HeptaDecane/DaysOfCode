@@ -140,5 +140,10 @@
     - Strings, Recursion
     - [problem](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)
     - [`T: O(n^2), S: O(n)`](../main/a027.cpp)
+
+28. Check if string is rotated by two places
+    - Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)
+    - [`T: O(n), S: O(1)`](../main/a028.cpp)
     
 <hr/>
