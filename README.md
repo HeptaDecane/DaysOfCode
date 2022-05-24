@@ -160,5 +160,10 @@
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1)
     - [`T: O(n), S: O(constant)`](../main/a031.cpp)
+
+32. Form a palindrome
+    - Strings, Dynamic Programming
+    - [problem](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)
+    - [`T: O(n^2), S: O(n^2)`](../main/a032.cpp)
     
 <hr/>
