@@ -171,4 +171,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1)
     - [`T: O(n), S: O(constant)`](../main/a033.cpp)
 
+33. Implement Atoi
+    - Strings, Design-Pattern
+    - [problem](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
+    - [`T: O(n), S: O(1)`](../main/a034.cpp)
+
 <hr/>
