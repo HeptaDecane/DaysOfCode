@@ -181,4 +181,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
     - [`T: O(m*n), S: O(1)`](../main/a035.cpp)
 
+36. Longest Common Prefix in an Array
+    - Strings, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)
+    - [`T: O(n*m), S: O(m)`](../main/a036.cpp)
+
 <hr/>
