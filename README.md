@@ -165,5 +165,10 @@
     - Strings, Dynamic Programming
     - [problem](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)
     - [`T: O(n^2), S: O(n^2)`](../main/a032.cpp)
-    
+
+33. Longest Distinct characters in string
+    - Strings, Sliding-window
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1)
+    - [`T: O(c), S: O(constant)`](../main/a033.cpp)
+
 <hr/>
