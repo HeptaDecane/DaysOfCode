@@ -169,6 +169,6 @@
 33. Longest Distinct characters in string
     - Strings, Sliding-window
     - [problem](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1)
-    - [`T: O(c), S: O(constant)`](../main/a033.cpp)
+    - [`T: O(n), S: O(constant)`](../main/a033.cpp)
 
 <hr/>
