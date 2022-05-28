@@ -196,5 +196,10 @@
     - Linked List
     - [problem](hhttps://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a038.cpp)
+
+39. Rotate a Linked List
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+    - [`T: O(n), S: O(1)`](../main/a039.cpp)
     
 <hr/>
