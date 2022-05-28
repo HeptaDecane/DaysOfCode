@@ -201,5 +201,11 @@
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a039.cpp)
+
+40. Reverse a Linked List in groups of given size
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
+    - [`T: O(n), S: O(n/k)`](../main/a040.cpp)
+    - **TODO:** `T: O(n), S: O(1)`
     
 <hr/>
