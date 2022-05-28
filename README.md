@@ -186,11 +186,15 @@
     - [problem](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)
     - [`T: O(n*m), S: O(m)`](../main/a036.cpp)
 
+### Linked Lists
 37. Finding middle element in a linked list
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a037.cpp)
 
-### Linked Lists
-
+38. Reverse a linked list
+    - Linked List
+    - [problem](hhttps://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+    - [`T: O(n), S: O(1)`](../main/a038.cpp)
+    
 <hr/>
