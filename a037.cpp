@@ -38,9 +38,6 @@ public:
     }
 };
 
-
-// { Driver Code Starts.
-
 int main() {
     //code
     int t;
