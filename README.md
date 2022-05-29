@@ -224,5 +224,10 @@
     - Floyd's Cycle-Finding Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a043.cpp)
+
+44. Nth node from end of Linked List
+    - Linked List, Two-pointer-algorithm
+    - [problem](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+    - [`T: O(n), S: O(1)`](../main/a044.cpp)
     
 <hr/>
