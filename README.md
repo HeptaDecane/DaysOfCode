@@ -245,5 +245,10 @@
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1)
     - [`T: O(m+n), S: O(m+n)`](../main/a047.cpp)
+
+48. Pairwise swap elements of a linked list
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+    - [`T: O(n), S: O(1)`](../main/a048.cpp)
     
 <hr/>
