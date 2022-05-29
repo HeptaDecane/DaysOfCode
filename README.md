@@ -212,5 +212,11 @@
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
     - [`T: O(n), S: O(1)`](../main/a041.cpp)
+
+42. Intersection Point in Y Shapped Linked Lists
+    - Linked List, Two-pointer-algorithm
+    - Floyd's Cycle-Finding Algorithm
+    - [problem](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+    - [`T: O(n), S: O(1)`](../main/a042.cpp)
     
 <hr/>
