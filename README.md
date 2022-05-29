@@ -234,5 +234,6 @@
     - Linked List, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
     - [`T: O(n*n*m), S: O(1)`](../main/a045i.cpp)
+    - [`T: O(n*m*log(n)), S: O(n)`](../main/a045ii.cpp)
     
 <hr/>
