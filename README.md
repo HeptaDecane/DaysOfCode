@@ -218,5 +218,11 @@
     - Floyd's Cycle-Finding Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a042.cpp)
+
+43. Remove Loop in Linked List
+    - Linked List, Two-pointer-algorithm
+    - Floyd's Cycle-Finding Algorithm
+    - [problem](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+    - [`T: O(n), S: O(1)`](../main/a043.cpp)
     
 <hr/>
