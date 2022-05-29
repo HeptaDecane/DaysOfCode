@@ -229,5 +229,10 @@
     - Linked List, Two-pointer-algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a044.cpp)
+
+45. Flattening a Linked List
+    - Linked List, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
+    - [`T: O(n*n*m), S: O(1)`](../main/a045i.cpp)
     
 <hr/>
