@@ -207,5 +207,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
     - [`T: O(n), S: O(n/k)`](../main/a040.cpp)
     - **TODO:** `T: O(n), S: O(1)`
+
+41. Intersection Point in Y Shapped Linked Lists
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+    - [`T: O(n), S: O(1)`](../main/a041.cpp)
     
 <hr/>
