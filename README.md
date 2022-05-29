@@ -240,5 +240,10 @@
     - Linked List, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1)
     - [`T: O(m+n), S: O(1)`](../main/a046.cpp)
+
+47. Intersection of Two Linked Lists
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1)
+    - [`T: O(m+n), S: O(m+n)`](../main/a047.cpp)
     
 <hr/>
