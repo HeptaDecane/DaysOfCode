@@ -270,5 +270,11 @@
     - Linked List, Stack
     - [problem](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
     - [solution](../main/a052.cpp)
+
+53. Given a linked list of 0s, 1s and 2s, sort it
+    - Linked List, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+    - [`T: O(n), S: O(1)`](../main/a053.cpp)
     
 <hr/>
+````
