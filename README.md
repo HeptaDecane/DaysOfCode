@@ -260,5 +260,10 @@
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
     - [`T: O(n), S: O(1)`](../main/a050.cpp)
+
+51. Implement Queue using Linked List
+    - Linked List, Queue
+    - [problem](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
+    - [solution](../main/a051.cpp)
     
 <hr/>
