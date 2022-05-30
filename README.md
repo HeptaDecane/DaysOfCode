@@ -255,5 +255,10 @@
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
     - [`T: O(n+m), S: O(max(n,m))`](../main/a049.cpp)
+
+50. Check if Linked List is Palindrome
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
+    - [`T: O(n), S: O(1)`](../main/a050.cpp)
     
 <hr/>
