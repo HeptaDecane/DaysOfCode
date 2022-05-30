@@ -265,5 +265,10 @@
     - Linked List, Queue
     - [problem](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
     - [solution](../main/a051.cpp)
+
+52. Implement Stack using Linked List
+    - Linked List, Stack
+    - [problem](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+    - [solution](../main/a052.cpp)
     
 <hr/>
