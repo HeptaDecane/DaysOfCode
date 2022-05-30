@@ -250,5 +250,10 @@
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
     - [`T: O(n), S: O(1)`](../main/a048.cpp)
+
+49. Add two numbers represented by linked lists
+    - Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+    - [`T: O(n+m), S: O(max(n,m))`](../main/a049.cpp)
     
 <hr/>
