@@ -293,5 +293,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
     - [`T: O(n), S: O(n)`](../main/a056.cpp)
 
+57. Queue using two Stacks
+    - Queue, Stack
+    - [problem](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+    - [solution](../main/a057.cpp)
+
 <hr/>
 ````
