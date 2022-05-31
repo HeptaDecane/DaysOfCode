@@ -288,5 +288,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
     - [`T: O(n), S: O(n)`](../main/a055.cpp)
 
+56. Next Greater Element
+    - Stack
+    - [problem](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+    - [`T: O(n), S: O(n)`](../main/a056.cpp)
+
 <hr/>
 ````
