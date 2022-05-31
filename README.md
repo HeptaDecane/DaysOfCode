@@ -282,5 +282,11 @@
     - [problem](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
     - [`T: O(1), S: O(1)`](../main/a054.cpp)
     
+### Stack and Queue
+55. Parenthesis Checker
+    - Stack, Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
+    - [`T: O(n), S: O(n)`](../main/a055.cpp)
+
 <hr/>
 ````
