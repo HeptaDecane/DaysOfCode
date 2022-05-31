@@ -298,5 +298,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
     - [solution](../main/a057.cpp)
 
+58. Stack using two Queues
+    - Queue, Stack
+    - [problem](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+    - [solution](../main/a058.cpp)
+
 <hr/>
-````
