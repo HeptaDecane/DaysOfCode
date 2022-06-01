@@ -308,4 +308,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-s/1)
     - [`T: O(1), S: O(1)`](../main/a059.cpp)
 
+60. LRU Cache
+    - Stack, Mathematical
+    - [problem](https://practice.geeksforgeeks.org/problems/lru-cache/1)
+    - [solution](../main/a060.cpp)
+
 <hr/>
