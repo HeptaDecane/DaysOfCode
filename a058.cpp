@@ -38,7 +38,7 @@ int main()
     }
 }
 
-//Function to push an element into stack using two queues.
+//Function to push an element into s using two queues.
 void QueueStack :: push(int x){
     // TODO
     while(not q1.empty()){
@@ -54,7 +54,7 @@ void QueueStack :: push(int x){
     }
 }
 
-//Function to pop an element from stack using two queues.
+//Function to pop an element from s using two queues.
 int QueueStack :: pop(){
     // TODO
     if(q1.empty()) return -1;

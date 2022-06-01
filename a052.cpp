@@ -43,7 +43,7 @@ int main() {
     }
 }
 
-//Function to push an integer into the stack.
+//Function to push an integer into the s.
 void MyStack ::push(int x){
     // TODO
     auto *node = new StackNode(x);
@@ -53,7 +53,7 @@ void MyStack ::push(int x){
 
 }
 
-//Function to remove an item from top of the stack.
+//Function to remove an item from top of the s.
 int MyStack ::pop(){
     // TODO
     if(top == nullptr) return -1;
