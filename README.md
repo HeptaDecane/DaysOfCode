@@ -309,7 +309,7 @@
     - [`T: O(1), S: O(1)`](../main/a059.cpp)
 
 60. LRU Cache
-    - Stack, Mathematical
+    - Doubly-linked-list, Hash, Queue, Design-Pattern
     - [problem](https://practice.geeksforgeeks.org/problems/lru-cache/1)
     - [solution](../main/a060.cpp)
 
