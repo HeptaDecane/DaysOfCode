@@ -328,4 +328,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1)
     - [`T: O(m*n), S: O(n)`](../main/a063.cpp) 
 
+64. Maximum of all subarrays of size k
+    - Arrays, Queue, Sliding-window
+    - [problem](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+    - [`T: O(n), S: O(k)`](../main/a064.cpp)
+
 <hr/>
