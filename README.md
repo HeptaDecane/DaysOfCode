@@ -323,4 +323,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
     - [`T: O(n), S: O(constant)`](../main/a062.cpp)
 
+63. Rotten Oranges
+    - Matrix, Queue, BFS
+    - [problem](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1)
+    - [`T: O(m*n), S: O(n)`](../main/a063.cpp) 
+
 <hr/>
