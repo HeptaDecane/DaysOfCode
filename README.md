@@ -313,4 +313,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/lru-cache/1)
     - [solution](../main/a060.cpp)
 
+61. Circular tour
+    - Queue, Two-pointer-algorithm 
+    - [problem](https://practice.geeksforgeeks.org/problems/circular-tour/1)
+    - [`T: O(n), S: O(1)`](../main/a061.cpp)
+
 <hr/>
