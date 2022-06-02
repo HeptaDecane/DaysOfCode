@@ -318,4 +318,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/circular-tour/1)
     - [`T: O(n), S: O(1)`](../main/a061.cpp)
 
+62. First non-repeating character in a stream
+    - Hash, Queue
+    - [problem](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
+    - [`T: O(n), S: O(constant)`](../main/a062.cpp)
+
 <hr/>
