@@ -332,5 +332,11 @@
     - Arrays, Queue, Sliding-window
     - [problem](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
     - [`T: O(n), S: O(k)`](../main/a064.cpp)
+    
+### Trees
+65. Left View of Binary Tree
+    - Tree, BFS
+    - [problem](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
+    - [`T: O(n), S: O(h)`](../main/a065.cpp)
 
 <hr/>
