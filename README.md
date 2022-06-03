@@ -339,4 +339,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a065.cpp)
 
+66. Check for BST
+    - Tree, BST
+    - [problem](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
+    - [`T: O(n), S: O(h)`](../main/a066.cpp)
+
 <hr/>
