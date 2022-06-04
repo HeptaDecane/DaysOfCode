@@ -349,4 +349,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
     - [`T: O(n), S: O(n)`](../main/a067.cpp)
 
+68. Vertical Traversal of Binary Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)
+    - [`T: O(n), S: O(n)`](../main/a068.cpp)
+
 <hr/>
