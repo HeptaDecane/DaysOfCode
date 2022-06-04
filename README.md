@@ -369,4 +369,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
     - [`T: O(h), S: O(h)`](../main/a071.cpp)
 
+72. Binary Tree to DLL
+    - Tree, Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
+    - [`T: O(n), S: O(h)`](../main/a072.cpp)
+
 <hr/>
