@@ -344,4 +344,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
     - [`T: O(n), S: O(h)`](../main/a066.cpp)
 
+67. Bottom View of Binary Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+    - [`T: O(n), S: O(n)`](../main/a067.cpp)
+
 <hr/>
