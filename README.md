@@ -384,4 +384,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/symmetric-tree/1)
     - [`T: O(n), S: O(h)`](../main/a074.cpp)
 
+75. Height of Binary Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+    - [`T: O(n), S: O(h)`](../main/a075.cpp)
+
 <hr/>
