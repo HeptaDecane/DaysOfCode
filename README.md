@@ -364,4 +364,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)
     - [`T: O(n), S: O(n)`](../main/a070.cpp)
 
+71. Lowest Common Ancestor in a BST
+    - Tree, BST
+    - [problem](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
+    - [`T: O(h), S: O(h)`](../main/a071.cpp)
+
 <hr/>
