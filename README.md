@@ -379,5 +379,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
     - [`T: O(n), S: O(h)`](../main/a073.cpp)
 
+74. Symmetric Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/symmetric-tree/1)
+    - [`T: O(n), S: O(h)`](../main/a074.cpp)
 
 <hr/>
