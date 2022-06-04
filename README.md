@@ -359,4 +359,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
     - [`T: O(n), S: O(n)`](../main/a069.cpp)
 
+70. Connect Nodes at Same Level
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)
+    - [`T: O(n), S: O(n)`](../main/a070.cpp)
+
 <hr/>
