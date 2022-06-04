@@ -374,4 +374,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
     - [`T: O(n), S: O(h)`](../main/a072.cpp)
 
+73. Determine if Two Trees are Identical
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+    - [`T: O(n), S: O(h)`](../main/a073.cpp)
+
+
 <hr/>
