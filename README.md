@@ -389,4 +389,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a075.cpp)
 
+76. Diameter of Binary Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+    - [`T: O(n), S: O(h)`](../main/a076.cpp)
+
 <hr/>
