@@ -399,4 +399,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
     - [`T: O(n), S: O(h)`](../main/a077.cpp)
 
+78. Count Leaves in Binary Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
+    - [`T: O(n), S: O(h)`](../main/a078.cpp)
+
 <hr/>
