@@ -75,29 +75,43 @@ Node *buildTree(string str) {
 
 
 class Solution {
-    // INT_MIN/2 to prevent overflow
-    int res = INT_MIN/2;
+    int res = INT_MIN;
 public:
     int maxPathSum(Node* root){
         // TODO
+        if(root == nullptr) return 0;
         int val = solve(root);
 
         // Note: Here Leaf node is a node which is connected to exactly one different node.
         // therefore, single child root is a leaf node
         if(root->right and root->left)
             return res;
-        return max(res,val);
+        else
+            return max(res,val);
     }
 
     int solve(Node *node){
-        if(node == nullptr) return INT_MIN/2;
+        if(node == nullptr) return 0;
+
         if(!node->left and !node->right) return node->data;
 
-        int l = solve(node->left);
-        int r = solve(node->right);
+        else if(node->left and !node->right){
+            int l = solve(node->left);
+            return l+node->data;
+        }
 
-        res = max(res, l+r+node->data);
-        return max(l,r)+node->data;
+        else if(!node->left and node->right){
+            int r = solve(node->right);
+            return r+node->data;
+        }
+
+        else{
+            int l = solve(node->left);
+            int r = solve(node->right);
+
+            res = max(res, l+r+node->data);
+            return max(l,r)+node->data;
+        }
     }
 };
 
