@@ -394,4 +394,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a076.cpp)
 
+77. Maximum Path Sum between 2 Leaf Nodes
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
+    - [`T: O(n), S: O(h)`](../main/a077.cpp)
+
 <hr/>
