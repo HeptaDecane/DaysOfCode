@@ -408,5 +408,10 @@
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
     - [`T: O(n), S: O(h)`](../main/a079.cpp)
+
+80. Serialize and Deserialize a Binary Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
+    - [`T: O(n), S: O(n)`](../main/a080.cpp)
     
 <hr/>
