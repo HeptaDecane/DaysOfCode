@@ -9,7 +9,7 @@ public:
             int left = 2*i+1;
             int right = 2*i+2;
 
-            if(max(left, right) <= end){
+            if(left<=end and right <=end){
                 if(arr[i] >= max(arr[left], arr[right]))
                     break;
                 else{
@@ -23,6 +23,7 @@ public:
                     }
                 }
             }
+
             else if(left <= end){
                 if(arr[i] >= arr[left])
                     break;
@@ -31,6 +32,7 @@ public:
                     i = left;
                 }
             }
+
             else if(right <= end){
                 if(arr[i] >= arr[right])
                     break;
@@ -39,6 +41,7 @@ public:
                     i = right;
                 }
             }
+
             else break;
         }
     }
