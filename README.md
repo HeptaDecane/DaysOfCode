@@ -413,5 +413,11 @@
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
     - [`T: O(n), S: O(n)`](../main/a080.cpp)
+
+### Heap
+1. Find median in a stream
+    - Heap, Design-Pattern
+    - [problem](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)
+    - [`T: O(nlog(n)), S: O(n)`](../main/a081.cpp)
     
 <hr/>
