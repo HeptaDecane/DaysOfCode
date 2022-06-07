@@ -120,296 +120,296 @@
     - [`T: O(nlog(n)), S: O(1)`](../main/a023.cpp)
 
 ### Strings
-24. Reverse words in a given string
+1. Reverse words in a given string
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)
     - [`T: O(s), S: O(s)`](../main/a024.cpp)
 
-25. Permutations of a given string
+2. Permutations of a given string
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)
     - [`T: O(n*n!), S: O(n) + backtracking`](../main/a025i.cpp)
     - [`T: O(n*n!), S: O(n)`](../main/a025ii.cpp)
 
-26. Longest Palindrome in a String
+3. Longest Palindrome in a String
     - Strings, Palindrome, Expand from center
     - [problem](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
     - [`T: O(n^2), S: O(1)`](../main/a026.cpp)
 
-27. Recursively remove all adjacent duplicates
+4. Recursively remove all adjacent duplicates
     - Strings, Recursion
     - [problem](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)
     - [`T: O(n^2), S: O(n)`](../main/a027.cpp)
 
-28. Check if string is rotated by two places
+5. Check if string is rotated by two places
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)
     - [`T: O(n), S: O(1)`](../main/a028.cpp)
 
-29. Roman Number to Integer
+6. Roman Number to Integer
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/roman-number-to-integer3201/1)
     - [`T: O(n), S: O(1)`](../main/a029.cpp)
 
-30. Anagram
+7. Anagram
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)
     - [`T: O(a+b), S: O(constant)`](../main/a030.cpp)
 
-31. Remove Duplicates
+8. Remove Duplicates
     - Strings
     - [problem](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1)
     - [`T: O(n), S: O(constant)`](../main/a031.cpp)
 
-32. Form a palindrome
+9. Form a palindrome
     - Strings, Dynamic Programming
     - [problem](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1)
     - [`T: O(n^2), S: O(n^2)`](../main/a032.cpp)
 
-33. Longest Distinct characters in string
+10. Longest Distinct characters in string
     - Strings, Sliding-window
     - [problem](https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1)
     - [`T: O(n), S: O(constant)`](../main/a033.cpp)
 
-34. Implement Atoi
+11. Implement Atoi
     - Strings, Design-Pattern
     - [problem](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
     - [`T: O(n), S: O(1)`](../main/a034.cpp)
 
-35. Implement strstr
+12. Implement strstr
     - Strings, Design-Pattern
     - [problem](https://practice.geeksforgeeks.org/problems/implement-strstr/1)
     - [`T: O(m*n), S: O(1)`](../main/a035.cpp)
 
-36. Longest Common Prefix in an Array
+13. Longest Common Prefix in an Array
     - Strings, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)
     - [`T: O(n*m), S: O(m)`](../main/a036.cpp)
 
 ### Linked Lists
-37. Finding middle element in a linked list
+1. Finding middle element in a linked list
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a037.cpp)
 
-38. Reverse a linked list
+2. Reverse a linked list
     - Linked List
     - [problem](hhttps://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a038.cpp)
 
-39. Rotate a Linked List
+3. Rotate a Linked List
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a039.cpp)
 
-40. Reverse a Linked List in groups of given size
+4. Reverse a Linked List in groups of given size
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
     - [`T: O(n), S: O(n/k)`](../main/a040.cpp)
     - **TODO:** `T: O(n), S: O(1)`
 
-41. Intersection Point in Y Shapped Linked Lists
+5. Intersection Point in Y Shapped Linked Lists
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
     - [`T: O(n), S: O(1)`](../main/a041.cpp)
 
-42. Detect Loop in Linked List
+6. Detect Loop in Linked List
     - Linked List, Two-pointer-algorithm
     - Floyd's Cycle-Finding Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a042.cpp)
 
-43. Remove Loop in Linked List
+7. Remove Loop in Linked List
     - Linked List, Two-pointer-algorithm
     - Floyd's Cycle-Finding Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a043.cpp)
 
-44. Nth node from end of Linked List
+8. Nth node from end of Linked List
     - Linked List, Two-pointer-algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
     - [`T: O(n), S: O(1)`](../main/a044.cpp)
 
-45. Flattening a Linked List
+9. Flattening a Linked List
     - Linked List, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1)
     - [`T: O(n*n*m), S: O(1)`](../main/a045i.cpp)
     - [`T: O(n*m*log(n)), S: O(n)`](../main/a045ii.cpp)
 
-46. Merge two sorted Linked Lists
+10. Merge two sorted Linked Lists
     - Linked List, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1)
     - [`T: O(m+n), S: O(1)`](../main/a046.cpp)
 
-47. Intersection of Two Linked Lists
+11. Intersection of Two Linked Lists
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1)
     - [`T: O(m+n), S: O(m+n)`](../main/a047.cpp)
 
-48. Pairwise swap elements of a linked list
+12. Pairwise swap elements of a linked list
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
     - [`T: O(n), S: O(1)`](../main/a048.cpp)
 
-49. Add two numbers represented by linked lists
+13. Add two numbers represented by linked lists
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
     - [`T: O(n+m), S: O(max(n,m))`](../main/a049.cpp)
 
-50. Check if Linked List is Palindrome
+14. Check if Linked List is Palindrome
     - Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)
     - [`T: O(n), S: O(1)`](../main/a050.cpp)
 
-51. Implement Queue using Linked List
+15. Implement Queue using Linked List
     - Linked List, Queue
     - [problem](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
     - [solution](../main/a051.cpp)
 
-52. Implement Stack using Linked List
+16. Implement Stack using Linked List
     - Linked List, Stack
     - [problem](https://practice.geeksforgeeks.org/problems/implement-s-using-linked-list/1)
     - [solution](../main/a052.cpp)
 
-53. Given a linked list of 0s, 1s and 2s, sort it
+17. Given a linked list of 0s, 1s and 2s, sort it
     - Linked List, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
     - [`T: O(n), S: O(1)`](../main/a053.cpp)
 
-54. Delete without head pointer
+18. Delete without head pointer
     - Linked List
     - `*del = *(del->next)`
     - [problem](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
     - [`T: O(1), S: O(1)`](../main/a054.cpp)
     
 ### Stack and Queue
-55. Parenthesis Checker
+1. Parenthesis Checker
     - Stack, Strings
     - [problem](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
     - [`T: O(n), S: O(n)`](../main/a055.cpp)
 
-56. Next Greater Element
+2. Next Greater Element
     - Stack
     - [problem](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
     - [`T: O(n), S: O(n)`](../main/a056.cpp)
 
-57. Queue using two Stacks
+3. Queue using two Stacks
     - Queue, Stack
     - [problem](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
     - [solution](../main/a057.cpp)
 
-58. Stack using two Queues
+4. Stack using two Queues
     - Queue, Stack
     - [problem](https://practice.geeksforgeeks.org/problems/s-using-two-queues/1)
     - [solution](../main/a058.cpp)
 
-59. Get minimum element from s
+5. Get minimum element from s
     - Stack, Mathematical 
     - [problem](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-s/1)
     - [`T: O(1), S: O(1)`](../main/a059.cpp)
 
-60. LRU Cache
+6. LRU Cache
     - Doubly-linked-list, Hash, Design-Pattern
     - [problem](https://practice.geeksforgeeks.org/problems/lru-cache/1)
     - [solution](../main/a060.cpp)
 
-61. Circular tour
+7. Circular tour
     - Queue, Two-pointer-algorithm 
     - [problem](https://practice.geeksforgeeks.org/problems/circular-tour/1)
     - [`T: O(n), S: O(1)`](../main/a061.cpp)
 
-62. First non-repeating character in a stream
+8. First non-repeating character in a stream
     - Hash, Queue
     - [problem](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)
     - [`T: O(n), S: O(constant)`](../main/a062.cpp)
 
-63. Rotten Oranges
+9. Rotten Oranges
     - Matrix, Queue, BFS
     - [problem](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1)
     - [`T: O(m*n), S: O(n)`](../main/a063.cpp) 
 
-64. Maximum of all subarrays of size k
+10. Maximum of all subarrays of size k
     - Arrays, Queue, Sliding-window
     - [problem](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
     - [`T: O(n), S: O(k)`](../main/a064.cpp)
     
 ### Trees
-65. Left View of Binary Tree
+1. Left View of Binary Tree
     - Tree, BFS
     - [problem](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a065.cpp)
 
-66. Check for BST
+2. Check for BST
     - Tree, BST
     - [problem](https://practice.geeksforgeeks.org/problems/check-for-bst/1)
     - [`T: O(n), S: O(h)`](../main/a066.cpp)
 
-67. Bottom View of Binary Tree
+3. Bottom View of Binary Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
     - [`T: O(n), S: O(n)`](../main/a067.cpp)
 
-68. Vertical Traversal of Binary Tree
+4. Vertical Traversal of Binary Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1)
     - [`T: O(n), S: O(n)`](../main/a068.cpp)
 
-69. Level order traversal in spiral form
+5. Level order traversal in spiral form
     - Tree, Queue
     - [problem](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1)
     - [`T: O(n), S: O(n)`](../main/a069.cpp)
 
-70. Connect Nodes at Same Level
+6. Connect Nodes at Same Level
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1)
     - [`T: O(n), S: O(n)`](../main/a070.cpp)
 
-71. Lowest Common Ancestor in a BST
+7. Lowest Common Ancestor in a BST
     - Tree, BST
     - [problem](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)
     - [`T: O(h), S: O(h)`](../main/a071.cpp)
 
-72. Binary Tree to DLL
+8. Binary Tree to DLL
     - Tree, Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
     - [`T: O(n), S: O(h)`](../main/a072.cpp)
 
-73. Determine if Two Trees are Identical
+9. Determine if Two Trees are Identical
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
     - [`T: O(n), S: O(h)`](../main/a073.cpp)
 
-74. Symmetric Tree
+10. Symmetric Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/symmetric-tree/1)
     - [`T: O(n), S: O(h)`](../main/a074.cpp)
 
-75. Height of Binary Tree
+11. Height of Binary Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a075.cpp)
 
-76. Diameter of Binary Tree
+12. Diameter of Binary Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a076.cpp)
 
-77. Maximum Path Sum between 2 Leaf Nodes
+13. Maximum Path Sum between 2 Leaf Nodes
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
     - [`T: O(n), S: O(h)`](../main/a077.cpp)
 
-78. Count Leaves in Binary Tree
+14. Count Leaves in Binary Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a078.cpp)
 
-79. Check for Balanced Tree
+15. Check for Balanced Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
     - [`T: O(n), S: O(h)`](../main/a079.cpp)
 
-80. Serialize and Deserialize a Binary Tree
+16. Serialize and Deserialize a Binary Tree
     - Tree
     - [problem](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
     - [`T: O(n), S: O(n)`](../main/a080.cpp)
