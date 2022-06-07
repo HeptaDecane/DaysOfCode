@@ -53,7 +53,7 @@ int main(){
 
     cout<<"build heap: \n";
     for(int i=n-1; i>=0; i--){
-        sift_down(arr,0,n-1);
+        sift_down(arr,i,n-1);
         print_array(arr,n);
     }
 
