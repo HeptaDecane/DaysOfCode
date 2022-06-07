@@ -419,5 +419,10 @@
     - Heap, Design-Pattern
     - [problem](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)
     - [`T: O(nlog(n)), S: O(n)`](../main/a081.cpp)
+
+2. Heap Sort
+    - Heap, Sorting, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/heap-sort/1)
+    - [`T: O(nlog(n)), S: O(1)`](../main/a082.cpp)
     
 <hr/>
