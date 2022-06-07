@@ -404,4 +404,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1)
     - [`T: O(n), S: O(h)`](../main/a078.cpp)
 
+79. Check for Balanced Tree
+    - Tree
+    - [problem](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1)
+    - [`T: O(n), S: O(h)`](../main/a079.cpp)
+    
 <hr/>
