@@ -429,5 +429,10 @@
      - Heap, Design-Pattern
     - [problem](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
     - [solution](../main/a083.cpp)
+
+4. Rearrange characters
+    - Heap, STL, Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1)
+    - [`T: O(n), S: O(constant)`](../main/a084.cpp)
     
 <hr/>
