@@ -424,5 +424,10 @@
     - Heap, Sorting, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/heap-sort/1)
     - [`T: O(nlog(n)), S: O(1)`](../main/a082.cpp)
+
+3. Binary Heap Operations
+     - Heap, Design-Pattern
+    - [problem](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+    - [solution](../main/a083.cpp)
     
 <hr/>
