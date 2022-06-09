@@ -434,5 +434,10 @@
     - Heap, STL, Strings
     - [problem](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1)
     - [`T: O(n), S: O(constant)`](../main/a084.cpp)
+
+5. Merge K sorted linked lists
+    - Heap, Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
+    - [`T: O(nklog(k)), S: O(k)`](../main/a085.cpp)
     
 <hr/>
