@@ -439,5 +439,10 @@
     - Heap, Linked List
     - [problem](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
     - [`T: O(nklog(k)), S: O(k)`](../main/a085.cpp)
+
+6. Kth largest element in a stream
+    - Heap, Linked List
+    - [problem](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)
+    - [`T: O(nlog(k)), S: O(k)`](../main/a086.cpp)
     
 <hr/>
