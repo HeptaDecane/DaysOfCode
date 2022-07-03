@@ -458,4 +458,10 @@
     - [`T: O(n^2), S: O(n^2)`](../main/a088ii.cpp)
     - [`T: O(n^2), S: O(n)`](../main/a088iii.cpp)
 
+3. Combination Sum
+    - Backtracking, Recursion
+    - [problem](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1)
+    - [`T: O(2^n), S: O(2^n)`](../main/a089.cpp)
+
+
 <hr/>

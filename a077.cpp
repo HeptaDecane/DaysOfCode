@@ -75,7 +75,7 @@ Node *buildTree(string str) {
 
 
 class Solution {
-    int res = INT_MIN;
+    int combinations = INT_MIN;
 public:
     int maxPathSum(Node* root){
         // TODO
@@ -85,9 +85,9 @@ public:
         // Note: Here Leaf node is a node which is connected to exactly one different node.
         // therefore, single child root is a leaf node
         if(root->right and root->left)
-            return res;
+            return combinations;
         else
-            return max(res,val);
+            return max(combinations, val);
     }
 
     int solve(Node *node){
@@ -109,7 +109,7 @@ public:
             int l = solve(node->left);
             int r = solve(node->right);
 
-            res = max(res, l+r+node->data);
+            combinations = max(combinations, l + r + node->data);
             return max(l,r)+node->data;
         }
     }
