@@ -472,5 +472,6 @@
     - Dynamic Programming, Recursion
     - [problem](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1)
     - [`T: O(?), S: O(?) | Recursion`](../main/a091i.cpp)
+    - [`T: O(n^2), S: O(n) | Dynamic Programming`](../main/a091ii.cpp)
 
 <hr/>
