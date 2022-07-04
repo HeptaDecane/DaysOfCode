@@ -474,4 +474,9 @@
     - [`T: O(?), S: O(?) | Recursion`](../main/a091i.cpp)
     - [`T: O(n^2), S: O(n) | Dynamic Programming`](../main/a091ii.cpp)
 
+6. Josephus problem
+    - Recursion
+    - [problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+    - [`T: O(n), S: O(n)`](../main/a092.cpp)
+
 <hr/>
