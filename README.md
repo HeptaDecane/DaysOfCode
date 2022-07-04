@@ -451,9 +451,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a087.cpp)
 
-2. Flood Fill Algorithm
+2. Number of paths
     - Recursion, Dynamic Programming, Mathematical
-    - [problem](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)
+    - [problem](https://practice.geeksforgeeks.org/problems/number-of-paths/1)
     - [`T: O(2^n), S: O(n^2) | Recursion`](../main/a088i.cpp)
     - [`T: O(n^2), S: O(n^2)`](../main/a088ii.cpp)
     - [`T: O(n^2), S: O(n)`](../main/a088iii.cpp)
