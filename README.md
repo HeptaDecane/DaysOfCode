@@ -463,5 +463,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/combination-sum-1587115620/1)
     - [`T: O(2^n), S: O(2^n)`](../main/a089.cpp)
 
+4. Combination Sum II
+    - Backtracking, Recursion
+    - [problem](https://leetcode.com/problems/combination-sum-ii/)
+    - [`T: O(2^n), S: O(2^n)`](../main/a090.cpp)
 
 <hr/>
