@@ -468,4 +468,9 @@
     - [problem](https://leetcode.com/problems/combination-sum-ii/)
     - [`T: O(2^n), S: O(2^n)`](../main/a090.cpp)
 
+5. Special Keyboard
+    - Dynamic Programming, Recursion
+    - [problem](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1)
+    - [`T: O(?), S: O(?) | Recursion`](../main/a091i.cpp)
+
 <hr/>
