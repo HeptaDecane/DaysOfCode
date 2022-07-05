@@ -15,8 +15,7 @@ public:
                     for(int c=1; c<=N; c++){
                         if(is_valid(grid, i, j, c)){
                             grid[i][j] = c;
-                            if(SolveSudoku(grid) == true)
-                                return true;
+                            if(SolveSudoku(grid)) return true;
                             grid[i][j] = 0;
                         }
                     }
