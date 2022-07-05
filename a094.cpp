@@ -18,7 +18,7 @@ public:
                         if(is_valid(grid, i, j, c)){
                             grid[i][j] = c;
                             if(SolveSudoku(grid)) return true;
-                            grid[i][j] = 0;
+                            grid[i][j] = UNASSIGNED;
                         }
                     }
                     return false;
