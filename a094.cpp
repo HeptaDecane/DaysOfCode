@@ -11,7 +11,9 @@ public:
         // TODO
         for(int i=0; i<N; i++){
             for(int j=0; j<N; j++){
+
                 if(grid[i][j] == UNASSIGNED){
+
                     for(int c=1; c<=N; c++){
                         if(is_valid(grid, i, j, c)){
                             grid[i][j] = c;
@@ -20,7 +22,9 @@ public:
                         }
                     }
                     return false;
+
                 }
+
             }
         }
 
