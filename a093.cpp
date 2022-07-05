@@ -16,6 +16,7 @@ public:
         return res;
     }
 
+    // TODO
     void nQueen(int col, vector<int> &ans, vector<int> &left_row, vector<int> &upper_dia,vector<int> &lower_dia,int n){
         if(col == n){
             res.push_back(ans);
