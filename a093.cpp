@@ -24,7 +24,7 @@ public:
 
         for(int row=0; row<n; row++){
             // is_safe
-            if(left_row[row]==0 and lower_dia[row+col]==0 && upper_dia[n-1 + row-col]==0){
+            if(!left_row[row] and !lower_dia[row+col] and !upper_dia[n-1 + row-col]){
                 // place_queen
                 ans.push_back(row);
                 left_row[row] = 1;
