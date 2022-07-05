@@ -26,7 +26,7 @@ public:
             // is_safe
             if(!left_row[row] and !lower_dia[row+col] and !upper_dia[n-1 + row-col]){
                 // place_queen
-                ans.push_back(row);
+                ans.push_back(row+1);
                 left_row[row] = 1;
                 lower_dia[row+col] = 1;
                 upper_dia[n-1 + row-col] = 1;
