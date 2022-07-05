@@ -484,4 +484,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
     - [`T: O(n!), S: O(n^2)`](../main/a093.cpp)
 
+8. Solve the Sudoku
+    - Recursion, Backtracking
+    - [problem](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)
+    - [`T: O(9^(n^2)), S: O(n^2)`](../main/a094.cpp)
+
 <hr/>
