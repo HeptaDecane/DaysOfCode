@@ -19,33 +19,25 @@ public:
             return;
         }
 
+        visited[i][j] = true;
+
         // DOWN
-        if(i+1<n and !visited[i+1][j] and map[i+1][j]){
-            visited[i][j] = true;
+        if(i+1<n and !visited[i+1][j] and map[i+1][j])
             findPath(i+1, j, n, map, visited, move+"D");
-            visited[i][j] = false;
-        }
 
         // LEFT
-        if(j-1>=0 and !visited[i][j-1] and map[i][j-1]){
-            visited[i][j] = true;
+        if(j-1>=0 and !visited[i][j-1] and map[i][j-1])
             findPath(i, j-1, n, map, visited, move+"L");
-            visited[i][j] = false;
-        }
 
         // RIGHT
-        if(j+1<n and !visited[i][j+1] and map[i][j+1]){
-            visited[i][j] = true;
+        if(j+1<n and !visited[i][j+1] and map[i][j+1])
             findPath(i, j+1, n, map, visited, move+"R");
-            visited[i][j] = false;
-        }
 
         // UP
-        if(i-1>=0 and !visited[i-1][j] and map[i-1][j]){
-            visited[i][j] = true;
+        if(i-1>=0 and !visited[i-1][j] and map[i-1][j])
             findPath(i-1, j, n, map, visited, move+"U");
-            visited[i][j] = false;
-        }
+
+        visited[i][j] = false;
     }
 };
 
