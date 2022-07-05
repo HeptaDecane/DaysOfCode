@@ -14,7 +14,7 @@ public:
 
                 if(grid[i][j] == UNASSIGNED){
 
-                    for(int c=1; c<=N; c++){
+                    for(int c=1; c<=9; c++){
                         if(is_valid(grid, i, j, c)){
                             grid[i][j] = c;
                             if(SolveSudoku(grid)) return true;
