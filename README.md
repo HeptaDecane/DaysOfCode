@@ -489,4 +489,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)
     - [`T: O(9^(n^2)), S: O(n^2)`](../main/a094.cpp)
 
+9. Rat in a Maze Problem - I
+    - Recursion, Backtracking
+    - [problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+    - [`T: O(4^(n^2)), S: O(n^2)`](../main/a095.cpp)
+
 <hr/>
