@@ -23,7 +23,9 @@ public:
         }
 
         for(int row=0; row<n; row++){
+            // is_safe
             if(left_row[row]==0 and lower_dia[row+col]==0 && upper_dia[n-1 + row-col]==0){
+                // place_queen
                 ans.push_back(row);
                 left_row[row] = 1;
                 lower_dia[row+col] = 1;
@@ -31,6 +33,7 @@ public:
 
                 nQueen(col+1, ans, left_row, upper_dia, lower_dia, n);
 
+                // backtrack
                 ans.pop_back();
                 left_row[row] = 0;
                 lower_dia[row+col] = 0;
