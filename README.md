@@ -479,4 +479,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
     - [`T: O(n), S: O(n)`](../main/a092.cpp)
 
+7. N-Queen Problem
+    - Recursion, Backtracking
+    - [problem](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
+    - [`T: O(n!), S: O(n^2)`](../main/a093.cpp)
+
 <hr/>
