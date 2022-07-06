@@ -14,10 +14,11 @@ public:
         return res;
     }
 
+    // TODO
     bool exists(vector<vector<char>> &board, string word){
         int m = board.size();
         int n = board[0].size();
-        vector<vector<bool>> visited(n, vector<bool>(n,false));
+        vector<vector<bool>> visited(m, vector<bool>(n,false));
 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
@@ -28,8 +29,9 @@ public:
         return false;
     }
 
+    // TODO
     bool find(int i, int j, int idx, vector<vector<char>> &board, string word, vector<vector<bool>> &visited){
-        if(idx == word.length()) return true;
+        if(idx == word.length()-1) return true;
 
         visited[i][j] = true;
 
@@ -40,7 +42,7 @@ public:
         for(int k=0; k<8; k++){
             int next_i = i + moves[k][0];
             int next_j = j + moves[k][1];
-            if(next_i>=0 and next_i<m and next_j>=0 and next_j<n and !visited[next_i][next_j] and board[i][j]==word[idx]){
+            if(next_i>=0 and next_i<m and next_j>=0 and next_j<n and !visited[next_i][next_j] and board[next_i][next_j]==word[idx+1]){
                 if(find(next_i, next_j, idx+1, board, word, visited))
                     return true;
             }
