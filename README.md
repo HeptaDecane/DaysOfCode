@@ -499,4 +499,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/word-boggle4143/1)
     - [`T: O(8^(n^2)), S: O(n^2)`](../main/a096.cpp)
 
+
+11. Generate IP Addresses
+    - Recursion, Backtracking
+    - [problem](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
+    - [`T: O((3^4)), S: O(3^4)`](../main/a097.cpp)
+
 <hr/>
