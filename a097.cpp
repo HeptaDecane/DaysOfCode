@@ -13,6 +13,7 @@ public:
 
     void genIp(string &s, int idx, int dots, string ip){
         if(dots==3){
+            // remaining digits
             if(idx<s.length() and is_subnet(s.substr(idx)))
                 res.push_back(ip+s.substr(idx));
             return;
