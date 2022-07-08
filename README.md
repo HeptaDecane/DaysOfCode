@@ -521,5 +521,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
     - [`T: O(n), S: O(n)`](../main/a100.cpp)
 
+4. Common Elements
+     - Arrays, Hash
+    - [problem](https://practice.geeksforgeeks.org/problems/common-elements5420/1)
+    - [`T: O(n), S: O(n)`](../main/a101.cpp)
+
 
 <hr/>
