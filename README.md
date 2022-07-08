@@ -503,6 +503,13 @@
 11. Generate IP Addresses
     - Recursion, Backtracking
     - [problem](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
-    - [`T: O((3^4)), S: O(3^4)`](../main/a097.cpp)
+    - [`T: O(3^4), S: O(3^4)`](../main/a097.cpp)
+
+### Hashing
+1. Relative Sorting
+    - Hash, Searching, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/relative-sorting4323/1)
+    - [`T: O(nlog(n)), S: O(n)`](../main/a098.cpp)
+
 
 <hr/>
