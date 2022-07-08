@@ -514,7 +514,12 @@
 2. Sort by frequency
     - Hash, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/1)
-    - [`T: O(nlog(n)), S: O(n)`](../main/a098.cpp)
+    - [`T: O(nlog(n)), S: O(n)`](../main/a099.cpp)
+
+3. Largest subarray with 0 sum
+    - Arrays, Hash
+    - [problem](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
+    - [`T: O(n), S: O(n)`](../main/a100.cpp)
 
 
 <hr/>
