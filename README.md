@@ -511,5 +511,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/relative-sorting4323/1)
     - [`T: O(nlog(n)), S: O(n)`](../main/a098.cpp)
 
+2. Sort by frequency
+    - Hash, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/1)
+    - [`T: O(nlog(n)), S: O(n)`](../main/a098.cpp)
+
 
 <hr/>
