@@ -526,10 +526,15 @@
     - [problem](https://practice.geeksforgeeks.org/problems/common-elements5420/1)
     - [`T: O(n), S: O(n)`](../main/a101.cpp)
 
-4. Four Sum
-    - Arrays, Soting
+5. Four Sum
+    - Arrays, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)
     - [`T: O(n^3), S: O(1)`](../main/a102.cpp)
+
+6. Swapping pairs make sum equal
+    - Arrays, Sorting, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1)
+    - [`T: O(nlog(n)+mlog(m)), S: O(1)`](../main/a103i.cpp)
 
 
 <hr/>
