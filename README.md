@@ -535,6 +535,7 @@
     - Arrays, Sorting, Hashing
     - [problem](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1)
     - [`T: O(nlog(n)+mlog(m)), S: O(1)`](../main/a103i.cpp)
+    - [`T: O(m+n), S: O(m+n)`](../main/a103ii.cpp)
 
 
 <hr/>
