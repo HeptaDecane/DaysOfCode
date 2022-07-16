@@ -17,6 +17,7 @@ public:
                 freq_map[arr[i]]--;
                 if(freq_map[arr[i]] == 0)
                     freq_map.erase(arr[i]);
+                i++, j++;
             }
         }
         return res;
