@@ -538,8 +538,13 @@
     - [`T: O(m+n), S: O(m+n)`](../main/a103ii.cpp)
 
 7. Count distinct elements in every window
-    - Arrays, Hashing
+    - Arrays, Hashing, Sliding-window
     - [problem](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
     - [`T: O(n), S: O(n)`](../main/a104.cpp)
+
+8. Array Pair Sum Divisibility Problem
+    - Arrays, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
+    - [`T: O(n), S: O(n)`](../main/a105.cpp)
 
 <hr/>
