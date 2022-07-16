@@ -537,5 +537,9 @@
     - [`T: O(nlog(n)+mlog(m)), S: O(1)`](../main/a103i.cpp)
     - [`T: O(m+n), S: O(m+n)`](../main/a103ii.cpp)
 
+7. Count distinct elements in every window
+    - Arrays, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
+    - [`T: O(n), S: O(n)`](../main/a104.cpp)
 
 <hr/>
