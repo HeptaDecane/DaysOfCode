@@ -547,4 +547,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1)
     - [`T: O(n), S: O(n)`](../main/a105.cpp)
 
+9. Longest consecutive sequence
+    - Arrays, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
+    - [`T: O(n), S: O(n)`](../main/a106.cpp)
+
 <hr/>
