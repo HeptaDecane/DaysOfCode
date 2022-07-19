@@ -552,4 +552,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
     - [`T: O(n), S: O(n)`](../main/a106.cpp)
 
+10. Subset array
+    - Arrays, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1)
+    - [`T: O(n), S: O(n)`](../main/a107.cpp)
+
 <hr/>
