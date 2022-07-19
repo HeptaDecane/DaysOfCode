@@ -119,6 +119,11 @@
     - [problem](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
     - [`T: O(nlog(n)), S: O(1)`](../main/a023.cpp)
 
+24. Find all pairs with a given sum
+    - Arrays, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1)
+    - [`T: O(nlog(n)), S: O(1)`](../main/a108.cpp)
+
 ### Strings
 1. Reverse words in a given string
     - Strings
