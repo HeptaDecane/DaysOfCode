@@ -567,4 +567,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
     - [`T: O(n), S: O(n)`](../main/a109.cpp)
 
+12. Minimum indexed character
+    - Arrays, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1)
+    - [`T: O(n), S: O(n)`](../main/a110.cpp)
+
 <hr/>
