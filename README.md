@@ -572,4 +572,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1)
     - [`T: O(n), S: O(n)`](../main/a110.cpp)
 
+13. Uncommon characters
+    - Arrays, Hashing
+    - [problem](https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1)
+    - [`T: O(n), S: O(n)`](../main/a111.cpp)
+
 <hr/>
