@@ -577,4 +577,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/uncommon-characters4932/1)
     - [`T: O(n), S: O(n)`](../main/a111.cpp)
 
+13. Smallest containing window
+    - Strings, Hashing, Sliding-window
+    - [problem](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)
+    - [`T: O(n), S: O(1)`](../main/a112.cpp)
+
 <hr/>
