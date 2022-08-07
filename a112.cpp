@@ -15,34 +15,34 @@ public:
 
         for(char ch : p) freq_map_p[ch]++;
 
-        int i=0, j=0;
+        int l=0, r=0;
         int m=p.length(), n=s.length();
         int match_count = 0;
 
-        while (i < n){
+        while (r < n){
             // acquire
-            while(i<n and match_count < m){
-                char ch = s[i];
+            while(r < n and match_count < m){
+                char ch = s[r];
                 freq_map[ch]++;
                 if(freq_map[ch] <= freq_map_p[ch])
                     match_count++;
-                i++;
+                r++;
             }
 
             // release
-            while (j<=i and match_count==m){
-                // int length = i-j+1;
-                int length = i-j;
+            while (l <= r and match_count == m){
+                // int length = r-l+1;
+                int length = r-l;
                 if(length < min_length){
                     min_length = length;
-                    res = s.substr(j, length);
+                    res = s.substr(l, length);
                 }
 
-                char ch = s[j];
+                char ch = s[l];
                 freq_map[ch] = max(0, freq_map[ch]-1);
                 if(freq_map[ch] < freq_map_p[ch])
                     match_count --;
-                j++;
+                l++;
             }
         }
         return res;
