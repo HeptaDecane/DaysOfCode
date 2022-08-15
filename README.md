@@ -587,4 +587,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1)
     - [`T: O(n), S: O(n)`](../main/a113.cpp)
 
+16. Check if frequencies can be equal
+    - Hashing, Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/check-frequencies4211/1)
+    - [`T: O(n), S: O(n)`](../main/a114.cpp)
+
 <hr/>
