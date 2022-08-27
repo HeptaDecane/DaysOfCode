@@ -591,5 +591,12 @@
     - Hashing, Strings
     - [problem](https://practice.geeksforgeeks.org/problems/check-frequencies4211/1)
     - [`T: O(n), S: O(n)`](../main/a114.cpp)
+    
+### Graphs
+1. DFS of Graph
+    - DFS, Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+    - [`T: O(v+e), S: O(v)`](../main/a115.cpp)
 
+    
 <hr/>
