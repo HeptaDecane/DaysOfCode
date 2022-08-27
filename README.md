@@ -598,5 +598,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
     - [`T: O(v+e), S: O(v)`](../main/a115.cpp)
 
+2. BFS of Graph
+    - BFS, Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+    - [`T: O(v+e), S: O(v)`](../main/a116.cpp)
+
     
 <hr/>
