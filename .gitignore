@@ -5,6 +5,5 @@ cmake-build-debug/
 */.idea/
 out/
 */out/
-CMakeLists.txt
 *.sh
 TEST.cpp
