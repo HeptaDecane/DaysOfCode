@@ -603,5 +603,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
     - [`T: O(v+e), S: O(v)`](../main/a116.cpp)
 
+3. Detect Cycle - Undirected Graph
+    - BFS, Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+    - [`T: O(v+e), S: O(v)`](../main/a117.cpp)
     
 <hr/>
