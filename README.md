@@ -604,8 +604,9 @@
     - [`T: O(v+e), S: O(v)`](../main/a116.cpp)
 
 3. Detect Cycle - Undirected Graph
-    - BFS, Graph
+    - BFS, DFS, Graph
     - [problem](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
-    - [`T: O(v+e), S: O(v)`](../main/a117.cpp)
+    - [`T: O(v+e), S: O(v) | BFS`](../main/a117i.cpp)
+    - [`T: O(v+e), S: O(v) | DFS`](../main/a117ii.cpp)
     
 <hr/>
