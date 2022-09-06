@@ -608,5 +608,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
     - [`T: O(v+e), S: O(v) | BFS`](../main/a117i.cpp)
     - [`T: O(v+e), S: O(v) | DFS`](../main/a117ii.cpp)
+
+4. Detect Cycle - Directed Graph
+    - DFS, Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
+    - [`T: O(v+e), S: O(v)`](../main/a118.cpp)
     
 <hr/>
