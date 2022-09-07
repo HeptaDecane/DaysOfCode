@@ -6,35 +6,28 @@ public:
     //Function to return list containing vertices in Topological order.
     vector<int> topoSort(int v, vector<int> adj[]){
         // TODO
-        vector<int> ingress(v, 0);
+        vector<bool> visited(v, false);
         vector<int> res;
 
         for(int i=0; i<v; i++){
-            for(int vertex : adj[i])
-                ingress[vertex]++;
+            if(not visited[i])
+                dfs(i, adj, visited, res);
         }
 
-        queue<int> q;
-        for(int i=0; i<v; i++){
-            if(ingress[i] == 0)
-                q.push(i);
-        }
-
-        while (not q.empty()){
-            int node = q.front();
-            q.pop();
-            res.push_back(node);
-
-            for(int vertex : adj[node]){
-                ingress[vertex]--;
-                if(ingress[vertex] == 0)
-                    q.push(vertex);
-            }
-        }
-
+        reverse(res.begin(), res.end());
         return res;
     }
 
+    // TODO
+    void dfs(int node, vector<int> adj[], vector<bool> &visited, vector<int> &res){
+        visited[node] = true;
+
+        for(int vertex : adj[node]){
+            if(not visited[vertex])
+                dfs(vertex, adj, visited, res);
+        }
+        res.push_back(node);
+    }
 };
 
 int check(int V, vector <int> &res, vector<int> adj[]) {
