@@ -613,5 +613,10 @@
     - DFS, Graph
     - [problem](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)
     - [`T: O(v+e), S: O(v)`](../main/a118.cpp)
+
+5. Topological Sort
+    - BFS, DFS,Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/topological-sort/1)
+    - [`T: O(v+e), S: O(v) | DFS`](../main/a119i.cpp)
     
 <hr/>
