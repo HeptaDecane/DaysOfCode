@@ -615,9 +615,14 @@
     - [`T: O(v+e), S: O(v)`](../main/a118.cpp)
 
 5. Topological Sort
-    - BFS, DFS,Graph
+    - BFS, DFS, Graph
     - [problem](https://practice.geeksforgeeks.org/problems/topological-sort/1)
     - [`T: O(v+e), S: O(v) | DFS`](../main/a119i.cpp)
     - [`T: O(v+e), S: O(v) | BFS`](../main/a119ii.cpp)
+
+6. Number of Islands
+    - BFS, Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+    - [`T: O(n*m), S: O(n*m)`](../main/a120.cpp)
     
 <hr/>
