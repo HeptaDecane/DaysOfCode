@@ -8,12 +8,11 @@ public:
         // TODO
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<bool>> visited(n, vector<bool>(m,false));
 
         int count = 0;
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(not visited[i][j] and grid[i][j]=='1'){
+                if(grid[i][j]=='1'){
                     count++;
                     bfs(i,j,grid);
                 }
