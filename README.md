@@ -624,5 +624,10 @@
     - BFS, Graph
     - [problem](https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a120.cpp)
+
+7. Implementing Dijkstra Algorithm
+     - Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
+    - [`T: O((v+e)log(v)), S: O(v+e)`](../main/a121.cpp)
     
 <hr/>
