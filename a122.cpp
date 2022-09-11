@@ -10,22 +10,23 @@ public:
     {
         // TODO
         int swaps = 0;
-        vector<int> refs(nums.begin(), nums.end());
-        sort(refs.begin(), refs.end());
+        vector<pair<int,int>> v;
 
-        unordered_map<int,int> index_map;
         for(int i=0; i<nums.size(); i++)
-            index_map[nums[i]] = i;
+            v.push_back({nums[i],i});
+
+        sort(v.begin(), v.end());
 
         for(int i=0; i<nums.size(); i++){
-            if(refs[i] != nums[i]){
-                int j = index_map[refs[i]];
-                index_map[nums[i]] = j;
-                index_map[refs[i]] = i;
-                swap(nums[i], nums[j]);
+            int j = v[i].second;
+
+            if(i != j){
+                swap(v[i], v[j]);
                 swaps++;
+                i--;
             }
         }
+
         return swaps;
     }
 };
