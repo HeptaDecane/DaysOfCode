@@ -629,5 +629,10 @@
      - Graph
     - [problem](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)
     - [`T: O((v+e)log(v)), S: O(v+e)`](../main/a121.cpp)
+
+8. Minimum Swaps to Sort
+    - Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
+    - [`T: O(nlog(n)), S: O(n)`](../main/a122.cpp)
     
 <hr/>

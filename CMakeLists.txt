@@ -139,4 +139,5 @@ add_executable(
         a119ii.cpp
         a120.cpp
         a121.cpp
+        a122.cpp
 )
