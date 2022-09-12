@@ -617,8 +617,8 @@
 5. Topological Sort
     - BFS, DFS, Graph
     - [problem](https://practice.geeksforgeeks.org/problems/topological-sort/1)
-    - [`T: O(v+e), S: O(v) | DFS`](../main/a119i.cpp)
-    - [`T: O(v+e), S: O(v) | BFS`](../main/a119ii.cpp)
+    - [`T: O(v+e), S: O(v) | BFS`](../main/a119i.cpp)
+    - [`T: O(v+e), S: O(v) | DFS`](../main/a119ii.cpp)
 
 6. Number of Islands
     - BFS, Graph
@@ -634,5 +634,10 @@
     - Graph
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-swaps/1)
     - [`T: O(nlog(n)), S: O(n)`](../main/a122.cpp)
+
+9. Strongly Connected Components (Kosaraju's Algo)
+    - DFS, Graph
+    - [problem](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+    - [`T: O(v+e), S: O(v)`](../main/a123.cpp)
     
 <hr/>
