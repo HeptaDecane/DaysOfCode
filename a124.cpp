@@ -9,7 +9,7 @@ public:
 
         if(isSafe(0,0,grid)){
             grid[0][0] = -1;
-            q.push({0,0,1});
+            q.push({0,0,0});    // {i,j,steps}
         }
 
         while(not q.empty()){
@@ -18,7 +18,7 @@ public:
             int steps = q.front()[2];
             q.pop();
 
-            if(r==x and c==y) return steps-1;
+            if(r==x and c==y) return steps;
 
             vector<pair<int,int>> deltas = {{0,1},{0,-1},{1,0},{-1,0}};
             for(auto d : deltas){
