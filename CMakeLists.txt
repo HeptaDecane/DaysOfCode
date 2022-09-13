@@ -141,4 +141,5 @@ add_executable(
         a121.cpp
         a122.cpp
         a123.cpp
+        a124.cpp
 )

@@ -639,5 +639,10 @@
     - DFS, Graph
     - [problem](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
     - [`T: O(v+e), S: O(v)`](../main/a123.cpp)
+
+10. Shortest Source to Destination Path
+    - BFS, DFS, Graph, Matrix
+    - [problem](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1)
+    - [`T: O(n*m), S: O(n*m)`](../main/a124.cpp)
     
 <hr/>
