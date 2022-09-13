@@ -643,6 +643,6 @@
 10. Shortest Source to Destination Path
     - BFS, DFS, Graph, Matrix
     - [problem](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1)
-    - [`T: O(n*m), S: O(n*m)`](../main/a124.cpp)
+    - [`T: O(n*m), S: O(n*m) | BFS`](../main/a124.cpp)
     
 <hr/>
