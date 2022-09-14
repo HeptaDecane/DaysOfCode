@@ -644,5 +644,10 @@
     - BFS, DFS, Graph, Matrix
     - [problem](https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path3544/1)
     - [`T: O(n*m), S: O(n*m) | BFS`](../main/a124.cpp)
+
+11. Find Whether Path Exist
+    - BFS, DFS, Graph, Matrix
+    - [problem](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1)
+    - [`T: O(n^2), S: O(n^2) | BFS`](../main/a125.cpp)
     
 <hr/>
