@@ -649,5 +649,10 @@
     - BFS, DFS, Graph, Matrix
     - [problem](https://practice.geeksforgeeks.org/problems/find-whether-path-exist5238/1)
     - [`T: O(n^2), S: O(n^2) | BFS`](../main/a125.cpp)
+
+12. Minimum Cost Path
+    - Graph, Matrix, Dynamic Programming
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1)
+    - [`T: O(n^2), S: O(n^2)`](../main/a126.cpp)
     
 <hr/>
