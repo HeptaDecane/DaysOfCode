@@ -23,7 +23,7 @@ public:
                 int next_distance = node_pair[1];
                 if(d[next_node] > d[node]+next_distance){
                     d[next_node] = d[node]+next_distance;
-                    pq.push({next_node,next_distance});
+                    pq.push({next_node,d[next_node]});
                 }
             }
         }
