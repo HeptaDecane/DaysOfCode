@@ -651,8 +651,13 @@
     - [`T: O(n^2), S: O(n^2) | BFS`](../main/a125.cpp)
 
 12. Minimum Cost Path
-    - Graph, Matrix, Dynamic Programming
+    - Graph, Matrix, Greedy
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1)
     - [`T: O(n^2), S: O(n^2)`](../main/a126.cpp)
-    
+
+13. Circle of strings
+    - Graph, String, Eulerian Circuit
+    - [problem](https://practice.geeksforgeeks.org/problems/circle-of-strings4530/1)
+    - [`T: O(v+e), S: O(v)`](../main/a127.cpp)
+
 <hr/>
