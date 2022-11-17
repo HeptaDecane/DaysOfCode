@@ -665,4 +665,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)
     - [`T: O(n^3), S: O(1)`](../main/a128.cpp)
 
+15. Alien Dictionary
+    - Graph, Strings, Sort
+    - [problem](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
+    - [`T: O(n*|s|), S: O(k)`](../main/a129.cpp)
+
 <hr/>
