@@ -670,4 +670,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)
     - [`T: O(n*|s|), S: O(k)`](../main/a129.cpp)
 
+16. Snake and Ladder Problem
+    - Graph, BFS, DFS
+    - [problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1)
+    - [`T: O(v), S: O(v)`](../main/a130.cpp)
+
 <hr/>
