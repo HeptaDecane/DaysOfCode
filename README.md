@@ -675,4 +675,11 @@
     - [problem](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1)
     - [`T: O(v), S: O(v)`](../main/a130.cpp)
 
+
+### Greedy
+1. Activity Selection
+    - Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)
+    - [`T: O(n*log(n)), S: O(n)`](../main/a131.cpp)
+
 <hr/>
