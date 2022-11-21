@@ -687,4 +687,8 @@
     - [problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
     - [`T: O(n*log(n)), S: O(n)`](../main/a132.cpp)
 
+3. Choose and Swap
+    - Greedy
+    - [problem](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1)
+    - [`T: O(n), S: O(1)`](../main/a133.cpp)
 <hr/>
