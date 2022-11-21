@@ -682,4 +682,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)
     - [`T: O(n*log(n)), S: O(n)`](../main/a131.cpp)
 
+2. N meetings in one room
+    - Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+    - [`T: O(n*log(n)), S: O(n)`](../main/a132.cpp)
+
 <hr/>
