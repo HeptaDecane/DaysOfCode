@@ -691,4 +691,10 @@
     - Greedy
     - [problem](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1)
     - [`T: O(n), S: O(1)`](../main/a133.cpp)
+
+4. Maximize Toys
+    - Greedy, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/maximize-toys0331/1)
+    - [`T: O(n*log(n)), S: O(1)`](../main/a134.cpp)
+    
 <hr/>
