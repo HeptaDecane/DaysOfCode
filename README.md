@@ -696,5 +696,10 @@
     - Greedy, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/maximize-toys0331/1)
     - [`T: O(n*log(n)), S: O(1)`](../main/a134.cpp)
+
+5. Page Faults in LRU
+    - Greedy
+    - [problem](https://practice.geeksforgeeks.org/problems/page-faults-in-lru5603/1)
+    - [`T: O(n*c), S: O(n)`](../main/a135.cpp)
     
 <hr/>
