@@ -701,5 +701,10 @@
     - Greedy
     - [problem](https://practice.geeksforgeeks.org/problems/page-faults-in-lru5603/1)
     - [`T: O(n*c), S: O(n)`](../main/a135.cpp)
+
+6. Largest Number Possible
+    - Greedy
+    - [problem](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1)
+    - [`T: O(n), S: O(1)`](../main/a136.cpp)
     
 <hr/>
