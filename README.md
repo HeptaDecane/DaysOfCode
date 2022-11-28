@@ -706,5 +706,10 @@
     - Greedy
     - [problem](https://practice.geeksforgeeks.org/problems/largest-number-possible5028/1)
     - [`T: O(n), S: O(1)`](../main/a136.cpp)
+
+7. Minimize the Heights II
+    - Greedy, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+    - [`T: O(n*log(n)), S: O(1)`](../main/a137.cpp)
     
 <hr/>
