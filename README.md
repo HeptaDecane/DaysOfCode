@@ -708,8 +708,13 @@
     - [`T: O(n), S: O(1)`](../main/a136.cpp)
 
 7. Minimize the Heights II
-    - Greedy, Arrays
+    - Greedy, Arrays, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
     - [`T: O(n*log(n)), S: O(1)`](../main/a137.cpp)
+
+8. Minimize the Sum of Product
+    - Greedy, Arrays, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1)
+    - [`T: O(n*log(n)), S: O(1)`](../main/a138.cpp)
     
 <hr/>
