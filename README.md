@@ -716,5 +716,10 @@
     - Greedy, Arrays, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1)
     - [`T: O(n*log(n)), S: O(1)`](../main/a138.cpp)
+
+9. Huffman Decoding
+    - Greedy, Heap
+    - [problem](https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1)
+    - [`T: O(n*log(n)), S: O(1)`](../main/a139.cpp)
     
 <hr/>
