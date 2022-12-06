@@ -8,6 +8,34 @@ public:
     int spanningTree(int v, vector<vector<int>> adj[])
     {
         // TODO
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> pq;
+        vector<bool> visited(v,false);
+
+        int sum = 0;
+        // {w, node}
+        pq.push({0,0});
+
+        while (not pq.empty()){
+            auto it = pq.top();
+            pq.pop();
+
+            int w = it.first;
+            int node = it.second;
+
+            if(visited[node]) continue;
+            visited[node] = true;
+            sum += w;
+
+            for(auto x : adj[node]){
+                int adj_node = x[0];
+                int edg_wt = x[1];
+
+                if(not visited[adj_node])
+                    pq.push({edg_wt, adj_node});
+            }
+        }
+
+        return sum;
     }
 };
 
