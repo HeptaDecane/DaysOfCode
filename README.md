@@ -721,5 +721,10 @@
     - Greedy, Heap
     - [problem](https://practice.geeksforgeeks.org/problems/huffman-decoding-1/1)
     - [`T: O(n*log(n)), S: O(1)`](../main/a139.cpp)
+
+10. Minimum Spanning Tree
+    - Greedy, Graph, Prim's Algorithm
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+    - [`T: O(e*log(v)), S: O(v^2)`](../main/a140.cpp)
     
 <hr/>
