@@ -726,5 +726,10 @@
     - Greedy, Graph, Prim's Algorithm
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)
     - [`T: O(e*log(v)), S: O(v^2)`](../main/a140.cpp)
+
+11. Shop in Candy Store
+    - Greedy, Sorting
+    - [problem](https://practice.geeksforgeeks.org/problems/shop-in-candy-store1145/1)
+    - [`T: O(n*log(n)), S: O(1)`](../main/a140.cpp)
     
 <hr/>
