@@ -730,6 +730,11 @@
 11. Shop in Candy Store
     - Greedy, Sorting
     - [problem](https://practice.geeksforgeeks.org/problems/shop-in-candy-store1145/1)
-    - [`T: O(n*log(n)), S: O(1)`](../main/a140.cpp)
+    - [`T: O(n*log(n)), S: O(1)`](../main/a141.cpp)
+
+12. Geek Collects the Balls
+    - Greedy
+    - [problem](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls5515/1)
+    - [`T: O(m+n), S: O(1)`](../main/a142.cpp)
     
 <hr/>
