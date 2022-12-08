@@ -5,7 +5,21 @@ class Solution{
 public:
     int maxBalls(int n, int m, vector<int> a, vector<int> b){
         // TODO
+        int i=0, j=0;
+        int sum_a=0, sum_b=0;
+        while (i<n and j<m){
+            if(a[i] < b[j]){
+                sum_a += a[i];
+                i++;
+            }
+            else if(a[i] > b[j]){
+                sum_b += b[j];
+                j++;
+            }
+            else{
 
+            }
+        }
     }
 };
 

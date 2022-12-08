@@ -736,5 +736,12 @@
     - Greedy
     - [problem](https://practice.geeksforgeeks.org/problems/geek-collects-the-balls5515/1)
     - [`T: O(m+n), S: O(1)`](../main/a142.cpp)
+
+### Dynamic Programming
+1. Minimum Operations
+    - Dynamic Programming
+    - [problem](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1)
+    - [`T: O(log(n)), S: O(1)`](../main/a143.cpp)
+
     
 <hr/>
