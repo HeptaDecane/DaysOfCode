@@ -743,5 +743,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/find-optimum-operation4504/1)
     - [`T: O(log(n)), S: O(1)`](../main/a143.cpp)
 
+2. Max Length Chain
+    - Longest Increasing Subsequence
+    - [problem](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+    - [`T: O(n^2), S: O(n)`](../main/a144.cpp)
+
     
 <hr/>
