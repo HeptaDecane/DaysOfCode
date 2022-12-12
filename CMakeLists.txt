@@ -9,6 +9,7 @@ add_executable(
         DaysOfCode
         concepts/a001.cpp
         concepts/a002.cpp
+        concepts/a003.cpp
         TEST.cpp
         a001.cpp
         a002.cpp
