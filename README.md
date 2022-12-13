@@ -748,5 +748,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
     - [`T: O(n^2), S: O(n)`](../main/a144.cpp)
 
+3. Minimum number of Coins
+    - Dynamic Programming, Greedy
+    - [problem](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)
+    - [`T: O(n), S: O(n) | Greedy`](../main/a145i.cpp)
+
     
 <hr/>
