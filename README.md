@@ -752,7 +752,7 @@
     - Dynamic Programming, Greedy
     - [problem](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1)
     - [`T: O(n), S: O(n) | Greedy`](../main/a145i.cpp)
-    - [`T: O(n*c), S: O(n*c) | Dynamic Programming`](../main/a145ii.cpp)
+    - [`T: O(n*c), S: O(n) | Dynamic Programming`](../main/a145ii.cpp)
 
     
 <hr/>
