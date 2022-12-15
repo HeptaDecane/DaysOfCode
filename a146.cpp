@@ -13,10 +13,10 @@ public:
         for(int i=0; i<=m; i++) dp[0][i]=0;
 
         // build dp matrix
-        for(int i=1; i<=m; i++){
-            for(int j=1; j<=n; j++){
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=m; j++){
                 char ch1 = s1[i-1];
-                char ch2 = s1[j-1];
+                char ch2 = s2[j-1];
 
                 if(ch1 == ch2)
                     dp[i][j] = dp[i-1][j-1] + 1;
@@ -25,12 +25,7 @@ public:
             }
         }
 
-        int length = 0;
-        for(int i=0; i<=n; i++){
-            for(int j=0; j<=m; j++)
-                length = max(length, dp[i][j]);
-        }
-        return length;
+        return *max_element(&dp[0][0], &dp[0][0]+(n+1)*(m+1));
     }
 };
 
