@@ -754,5 +754,9 @@
     - [`T: O(n), S: O(n) | Greedy`](../main/a145i.cpp)
     - [`T: O(n*c), S: O(n) | Dynamic Programming`](../main/a145ii.cpp)
 
+4. Longest Common Substring
+    - Dynamic Programming, Strings
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
+    - [`T: O(n*m), S: O(n*m)`](../main/a146.cpp)
     
 <hr/>
