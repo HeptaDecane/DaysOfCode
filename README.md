@@ -758,5 +758,10 @@
     - Dynamic Programming, Strings
     - [problem](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a146.cpp)
+
+5. Longest Increasing Subsequence
+    - Dynamic Programming, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)
+    - [`T: O(n^2), S: O(n)`](../main/a147.cpp)
     
 <hr/>
