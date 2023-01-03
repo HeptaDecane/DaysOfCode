@@ -766,7 +766,12 @@
 
 6. Longest Common Subsequence
     - Dynamic Programming, Arrays
-    - [problem](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)
-    - [`T: O(n^2), S: O(n)`](../main/a148.cpp)
+    - [problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)
+    - [`T: O(n^2), S: O(n^2)`](../main/a148.cpp)
+
+7. 0/1 Knapsack Problem
+    - Dynamic Programming, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+    - [`T: O(n*m), S: O(n*m)`](../main/a149.cpp)
     
 <hr/>
