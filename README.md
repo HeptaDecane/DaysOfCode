@@ -773,5 +773,10 @@
     - Dynamic Programming, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a149.cpp)
+
+7. Maximum Sum Increasing Subsequence
+    - Dynamic Programming, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
+    - [`T: O(n^2), S: O(n)`](../main/a150.cpp)
     
 <hr/>
