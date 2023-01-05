@@ -778,5 +778,10 @@
     - Dynamic Programming, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)
     - [`T: O(n^2), S: O(n)`](../main/a150.cpp)
+
+8. Minimum number of jumps
+    - Dynamic Programming, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
+    - [`T: O(n), S: O(1)`](../main/a151.cpp)
     
 <hr/>
