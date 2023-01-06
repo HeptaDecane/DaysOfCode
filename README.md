@@ -783,5 +783,10 @@
     - Dynamic Programming, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1)
     - [`T: O(n), S: O(1)`](../main/a151.cpp)
+
+9. Edit Distance
+    - Dynamic Programming, Strings, LCS
+    - [problem](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
+    - [`T: O(n*m), S: O(n*m)`](../main/a152.cpp)
     
 <hr/>
