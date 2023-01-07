@@ -788,5 +788,10 @@
     - Dynamic Programming, Strings, LCS
     - [problem](https://practice.geeksforgeeks.org/problems/edit-distance3702/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a152.cpp)
+
+10. Coin Change
+    - Dynamic Programming, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
+    - [`T: O(n*t), S: O(n*t)`](../main/a153.cpp)
     
 <hr/>
