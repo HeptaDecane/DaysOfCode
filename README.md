@@ -793,5 +793,10 @@
     - Dynamic Programming, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/coin-change2448/1)
     - [`T: O(n*t), S: O(n*t)`](../main/a153.cpp)
+
+11. Partition Equal Subset Sum
+    - Dynamic Programming, Arrays, Subset
+    - [problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
+    - [`T: O(n*s), S: O(n*s)`](../main/a154.cpp)
     
 <hr/>

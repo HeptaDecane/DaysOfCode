@@ -173,4 +173,5 @@ add_executable(
         a151.cpp
         a152.cpp
         a153.cpp
+        a154.cpp
 )
