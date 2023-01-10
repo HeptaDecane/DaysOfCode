@@ -798,5 +798,10 @@
     - Dynamic Programming, Arrays, Subset
     - [problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)
     - [`T: O(n*s), S: O(n*s)`](../main/a154.cpp)
+
+12. Box Stacking
+    - Dynamic Programming, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/box-stacking/1)
+    - [`T: O(n^2), S: O(n)`](../main/a155.cpp)
     
 <hr/>
