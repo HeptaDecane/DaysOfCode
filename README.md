@@ -803,5 +803,10 @@
     - Dynamic Programming, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/box-stacking/1)
     - [`T: O(n^2), S: O(n)`](../main/a155.cpp)
+
+13. Maximize The Cut Segments
+    - Dynamic Programming, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)
+    - [`T: O(n), S: O(n)`](../main/a156.cpp)
     
 <hr/>
