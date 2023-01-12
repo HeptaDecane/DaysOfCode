@@ -810,7 +810,7 @@
     - [`T: O(n), S: O(n)`](../main/a156.cpp)
 
 14. Longest Increasing Path in a matrix
-    - Dynamic Programming, Algorithms
+    - Dynamic Programming, Algorithms, DFS
     - [problem](https://practice.geeksforgeeks.org/problems/longest-path-in-a-matrix3019/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a157.cpp)
     
