@@ -813,5 +813,10 @@
     - Dynamic Programming, Algorithms, DFS
     - [problem](https://practice.geeksforgeeks.org/problems/longest-path-in-a-matrix3019/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a157.cpp)
+
+15. Minimum Sum Partition
+    - Dynamic Programming, Algorithms, Subset
+    - [problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
+    - [`T: O(n*sum), S: O(n*sum)`](../main/a158.cpp)
     
 <hr/>
