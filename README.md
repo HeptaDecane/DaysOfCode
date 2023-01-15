@@ -818,5 +818,10 @@
     - Dynamic Programming, Algorithms, Subset
     - [problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
     - [`T: O(n*sum), S: O(n*sum)`](../main/a158.cpp)
+
+16. Number of Hops
+    - Dynamic Programming, Algorithms, Fibonacci Sequence
+    - [problem](https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
+    - [`T: O(n), S: O(n)`](../main/a159.cpp)
     
 <hr/>
