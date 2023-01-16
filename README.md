@@ -824,4 +824,9 @@
     - [problem](https://practice.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
     - [`T: O(n), S: O(n)`](../main/a159.cpp)
     
+17. Egg Dropping Puzzle
+    - Dynamic Programming, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1)
+    - [`T: O(n*k^2), S: O(n*k)`](../main/a160.cpp)
+    
 <hr/>
