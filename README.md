@@ -830,7 +830,7 @@
     - [`T: O(n*k^2), S: O(n*k)`](../main/a160.cpp)
 
 18. Optimal Strategy For A Game
-    - Dynamic Programming, Algorithms
+    - Dynamic Programming, Strings, LCS
     - [problem](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1)
     - [`T: O(n*n), S: O(n*n)`](../main/a161.cpp)
 
