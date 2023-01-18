@@ -833,5 +833,10 @@
     - Dynamic Programming, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1)
     - [`T: O(n*n), S: O(n*n)`](../main/a161.cpp)
+
+19. Shortest Common Supersequence
+    - Dynamic Programming, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)
+    - [`T: O(n*m), S: O(n*m)`](../main/a162.cpp)
     
 <hr/>
