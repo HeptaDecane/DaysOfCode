@@ -9,7 +9,7 @@ public:
     {
         // TODO
         int low = 0;
-        int high = n-2;
+        int high = n-1;
 
         while(low <= high){
             int mid = (low+high)/2;
