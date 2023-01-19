@@ -838,5 +838,12 @@
     - Dynamic Programming, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)
     - [`T: O(n*m), S: O(n*m)`](../main/a162.cpp)
+
+
+### Divide and Conquer
+1. Unique Element in Sorted Array
+    - Divide and Conquer, Searching, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)
+    - [`T: O(log(n)), S: O(1)`](../main/a163.cpp)
     
 <hr/>
