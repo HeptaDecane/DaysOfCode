@@ -845,5 +845,10 @@
     - Divide and Conquer, Searching, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)
     - [`T: O(log(n)), S: O(1)`](../main/a163.cpp)
+
+2. Search in a Rotated Array
+    - Divide and Conquer, Searching, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
+    - [`T: O(log(n)), S: O(1)`](../main/a164.cpp)
     
 <hr/>
