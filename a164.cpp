@@ -9,41 +9,49 @@ public:
 
         // TODO
         int n = h-l+1;
-        int mid;
+        int pivot = 0;
 
         while (l <= h){
-            mid = (l+h)/2;
-            if(arr[(mid+1)%n]>arr[mid] and arr[mid]<arr[(mid-1+n)%n])
+            int mid = (l+h)/2;
+
+            // found min element
+            if(arr[mid] < arr[(mid-1+n)%n])
+            {
+                pivot = mid;
                 break;
+            }
+
+            // found max element
+            if(arr[mid] > arr[(mid+1)%n])
+            {
+                pivot = (mid+1)%n;
+                break;
+            }
             if(arr[l] <= arr[mid])
                 l = mid+1;
-            else
+            else if(arr[mid] <= arr[h])
                 h = mid-1;
         }
 
-        int idx = -1;
-        idx = binarySearch(arr,0,mid-1,key);
-        if(idx != -1) return idx;
+        if(not pivot) return binary_search(arr, 0, n-1, key);
+        return binary_search(arr,0,pivot-1,key) + binary_search(arr,pivot,n-1,key) + 1;
 
-        idx = -1;
-        idx = binarySearch(arr,mid,n-1,key);
-        if(idx != -1) return idx;
     }
 
     // TODO
-    int binarySearch(int *arr, int low, int high, int key)
+    int binary_search(int *arr, int low, int high, int key)
     {
-        if (high < low)
-            return -1;
+        while (low <= high){
+            int mid = (low+high)/2;
+            if(arr[mid] == key)
+                return mid;
+            if(arr[mid] < key)
+                low = mid+1;
+            else
+                high = mid-1;
+        }
 
-        int mid = (low + high) / 2;
-        if (key == arr[mid])
-            return mid;
-
-        if (key > arr[mid])
-            return binarySearch(arr, (mid + 1), high, key);
-
-        return binarySearch(arr, low, (mid - 1), key);
+        return -1;
     }
 };
 
