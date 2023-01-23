@@ -850,6 +850,11 @@
     - Divide and Conquer, Searching, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)
     - [`T: O(log(n)), S: O(1)`](../main/a164.cpp)
+
+3. Binary Search
+    - Divide and Conquer, Searching, Arrays, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
+    - [`T: O(log(n)), S: O(1)`](../main/a165.cpp)
     
 
 <hr/>
