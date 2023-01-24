@@ -855,6 +855,10 @@
     - Divide and Conquer, Searching, Arrays, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
     - [`T: O(log(n)), S: O(1)`](../main/a165.cpp)
-    
+
+4. Sum of Middle Elements of two sorted arrays
+    - Divide and Conquer, Arrays
+    - [problem](https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1)
+    - [`T: O(log(n)), S: O(1)`](../main/a165.cpp)
 
 <hr/>
