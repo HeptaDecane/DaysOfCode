@@ -860,6 +860,10 @@
     - Divide and Conquer, Arrays
     - [problem](https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays2305/1)
     - [`T: O(log(n)), S: O(log(n))`](../main/a166.cpp)
-    
 
+5. Quick Sort
+    - Divide and Conquer, Sorting, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/quick-sort/1)
+    - [`T: O(nlog(n)), S: O(1)`](../main/a167.cpp)
+    
 <hr/>
