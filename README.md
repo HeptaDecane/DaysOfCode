@@ -865,5 +865,10 @@
     - Divide and Conquer, Sorting, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/quick-sort/1)
     - [`T: O(nlog(n)), S: O(1)`](../main/a167.cpp)
+
+6. Merge Sort
+    - Divide and Conquer, Sorting, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/merge-sort/1)
+    - [`T: O(nlog(n)), S: O(n)`](../main/a168.cpp)
     
 <hr/>
