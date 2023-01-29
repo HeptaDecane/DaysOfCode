@@ -870,5 +870,10 @@
     - Divide and Conquer, Sorting, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/merge-sort/1)
     - [`T: O(nlog(n)), S: O(n)`](../main/a168.cpp)
+
+7. K-th Element of two Sorted Arrays
+    - Divide and Conquer, Arrays, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
+    - [`T: O(log(n)+log(m)), S: O(log(n))`](../main/a169.cpp)
     
 <hr/>
