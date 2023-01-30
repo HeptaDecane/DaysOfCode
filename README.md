@@ -875,5 +875,10 @@
     - Divide and Conquer, Arrays, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
     - [`T: O(log(n)+log(m)), S: O(log(n))`](../main/a169.cpp)
+
+8. K-th Element of two Sorted Arrays
+    - Divide and Conquer, Arrays, Algorithms, Searching
+    - [problem](https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1)
+    - [`T: O(min(log(m)+log(n))), S: O(n+m)`](../main/a170.cpp)
     
 <hr/>
