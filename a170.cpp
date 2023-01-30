@@ -11,7 +11,9 @@ public:
         int n1 = arr1.size();
         int n2 = arr2.size();
 
-        int low=0, high=n1-1;
+        if(n2 < n1) return MedianOfArrays(arr2, arr1);
+
+        int low=0, high=n1;
         while (low <= high){
             int cut1 = (low+high)/2;
             int cut2 = (n1+n2+1)/2 - cut1;
@@ -23,7 +25,7 @@ public:
             int right2 = cut2==n2 ? INT_MAX : arr2[cut2];
 
             if(left1<=right2 and left2<=right1){
-                if((n1+n2)/2==0)
+                if((n1+n2)%2==0)
                     return (max(left1,left2) + min(right1,right2)) / 2.0;
                 else
                     return max(left1,left2);
@@ -31,7 +33,7 @@ public:
             else if(left1 > right2)
                 high = cut1-1;
             else
-                low = cut2+1;
+                low = cut1+1;
         }
 
         return 0;
