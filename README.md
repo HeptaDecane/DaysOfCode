@@ -880,5 +880,13 @@
     - Divide and Conquer, Arrays, Algorithms, Searching
     - [problem](https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1)
     - [`T: O(min(log(m),log(n))), S: O(1)`](../main/a170.cpp)
-    
+
+
+### Backtracking
+1. N-Queen Problem
+    - Backtracking, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
+    - [`T: O(n!), S: O(n^2)`](../main/a171.cpp)
+
 <hr/>
+
