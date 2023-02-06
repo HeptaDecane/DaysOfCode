@@ -888,5 +888,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
     - [`T: O(n!), S: O(n^2)`](../main/a171.cpp)
 
+2. Solve the Sudoku
+    - Backtracking, Algorithms, Matrix
+    - [problem](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)
+    - [`T: O(9^(n*n)), S: O(n^2)`](../main/a172.cpp)
+
 <hr/>
 
