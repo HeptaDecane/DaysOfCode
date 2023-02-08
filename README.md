@@ -898,5 +898,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
     - [`T: O(4^(n*n)), S: O(n^2)`](../main/a173.cpp)
 
+4. Word Boggle
+    - Backtracking, Graph, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/word-boggle4143/1)
+    - [`T: O(8^(n^2)), S: O(n^2)`](../main/a174.cpp)
+
 <hr/>
 
