@@ -903,5 +903,10 @@
     - [problem](https://practice.geeksforgeeks.org/problems/word-boggle4143/1)
     - [`T: O(8^(n^2)), S: O(n^2)`](../main/a174.cpp)
 
+5. Generate IP Addresses
+    - Backtracking, Strings, Algorithms
+    - [problem](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
+    - [`T: O(n^4), S: O(n^4)`](../main/a175.cpp)
+
 <hr/>
 
