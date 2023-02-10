@@ -906,7 +906,7 @@
 5. Generate IP Addresses
     - Backtracking, Strings, Algorithms
     - [problem](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
-    - [`T: O(n^4), S: O(n^4)`](../main/a175.cpp)
+    - [`T: O(3^4), S: O(3^4)`](../main/a175.cpp)
 
 <hr/>
 
